@@ -1,0 +1,641 @@
+UserID,Age,Gender,Height (cm),Weight (kg),BMI,Chest (cm),Waist (cm),Hip (cm),Body Type,Base Size,Previous Purchase,Brand,Item Purchased,Size Purchased,Fit Feedback,Return/Exchange Status,Reason for Return/Exchange,Season,Purchase Location,Loyalty Status,Promotion Influence,Region,Timestamp
+User001,70,Non-Binary,189,100,27.99,130,98,114,Petite,XXL,True,Levi's,Skirt,XXL,Too Large,Kept,,Spring,In-Store,Frequent Buyer,Yes,Australia,2022-09-24 01:33
+User001,70,Non-Binary,189,100,27.99,130,98,114,Petite,XXL,True,Uniqlo,Jeans,XXL,Too Small,Returned,Changed Mind,Spring,In-Store,Frequent Buyer,Yes,Australia,2022-02-13 00:26
+User001,70,Non-Binary,189,100,27.99,130,98,114,Petite,XXL,True,Levi's,Sweater,XXL,Too Small,Exchanged,Other,Spring,In-Store,Frequent Buyer,Yes,Australia,2022-12-05 04:19
+User001,70,Non-Binary,189,100,27.99,130,98,114,Petite,XXL,True,Zara,Sweater,XXL,Too Small,Kept,,Spring,In-Store,Frequent Buyer,Yes,Australia,2022-03-12 13:11
+User001,70,Non-Binary,189,100,27.99,130,98,114,Petite,XXL,True,Nike,T-shirt,XXL,Too Small,Exchanged,Other,Spring,In-Store,Frequent Buyer,Yes,Australia,2022-06-03 14:46
+User001,70,Non-Binary,189,100,27.99,130,98,114,Petite,XXL,True,Zara,Shorts,XXL,Too Small,Exchanged,Fit Issue,Spring,In-Store,Frequent Buyer,Yes,Australia,2022-09-17 18:22
+User001,70,Non-Binary,189,100,27.99,130,98,114,Petite,XXL,True,H&M,Skirt,XXL,Too Large,Returned,Other,Spring,In-Store,Frequent Buyer,Yes,Australia,2023-06-02 16:23
+User001,70,Non-Binary,189,100,27.99,130,98,114,Petite,XXL,True,Zara,Skirt,XXL,Too Large,Returned,Fit Issue,Spring,In-Store,Frequent Buyer,Yes,Australia,2023-11-18 14:00
+User001,70,Non-Binary,189,100,27.99,130,98,114,Petite,XXL,True,Nike,T-shirt,XXL,Too Large,Returned,Fit Issue,Spring,In-Store,Frequent Buyer,Yes,Australia,2022-10-22 13:18
+User001,70,Non-Binary,189,100,27.99,130,98,114,Petite,XXL,True,Levi's,Skirt,XXL,Fit Well,Exchanged,Fit Issue,Spring,In-Store,Frequent Buyer,Yes,Australia,2023-09-15 19:01
+User002,20,Non-Binary,156,105,43.15,98,102,116,Athletic,L,False,Nike,Skirt,M,Too Large,Exchanged,Fit Issue,Winter,In-Store,Frequent Buyer,Yes,Africa,2023-09-18 21:26
+User002,20,Non-Binary,156,105,43.15,98,102,116,Athletic,L,False,Levi's,T-shirt,L,Too Large,Exchanged,Quality Issue,Winter,In-Store,Frequent Buyer,Yes,Africa,2022-06-01 03:40
+User002,20,Non-Binary,156,105,43.15,98,102,116,Athletic,L,False,Levi's,Jacket,L,Too Small,Returned,Other,Winter,In-Store,Frequent Buyer,Yes,Africa,2023-05-07 15:20
+User002,20,Non-Binary,156,105,43.15,98,102,116,Athletic,L,False,Nike,Jacket,M,Fit Well,Kept,,Winter,In-Store,Frequent Buyer,Yes,Africa,2022-08-30 17:45
+User002,20,Non-Binary,156,105,43.15,98,102,116,Athletic,L,False,Zara,Skirt,M,Too Small,Exchanged,Changed Mind,Winter,In-Store,Frequent Buyer,Yes,Africa,2023-01-11 03:35
+User002,20,Non-Binary,156,105,43.15,98,102,116,Athletic,L,False,Nike,Shorts,M,Too Small,Returned,Fit Issue,Winter,In-Store,Frequent Buyer,Yes,Africa,2023-08-03 01:27
+User002,20,Non-Binary,156,105,43.15,98,102,116,Athletic,L,False,Zara,Shorts,M,Too Small,Exchanged,Quality Issue,Winter,In-Store,Frequent Buyer,Yes,Africa,2023-06-27 10:07
+User002,20,Non-Binary,156,105,43.15,98,102,116,Athletic,L,False,Uniqlo,Dress,XL,Fit Well,Returned,Changed Mind,Winter,In-Store,Frequent Buyer,Yes,Africa,2022-08-12 11:09
+User002,20,Non-Binary,156,105,43.15,98,102,116,Athletic,L,False,Levi's,Skirt,L,Fit Well,Kept,,Winter,In-Store,Frequent Buyer,Yes,Africa,2022-07-02 23:17
+User002,20,Non-Binary,156,105,43.15,98,102,116,Athletic,L,False,Zara,T-shirt,M,Fit Well,Exchanged,Other,Winter,In-Store,Frequent Buyer,Yes,Africa,2022-03-25 01:07
+User002,20,Non-Binary,156,105,43.15,98,102,116,Athletic,L,False,Zara,Jeans,M,Too Small,Kept,,Winter,In-Store,Frequent Buyer,Yes,Africa,2022-06-23 22:12
+User003,41,Female,157,85,34.48,135,71,87,Curvy,XXL,False,Zara,T-shirt,L,Too Large,Returned,Changed Mind,Spring,Online,Frequent Buyer,Yes,North America,2023-09-09 16:11
+User003,41,Female,157,85,34.48,135,71,87,Curvy,XXL,False,Levi's,Shorts,XXL,Fit Well,Exchanged,Changed Mind,Spring,Online,Frequent Buyer,Yes,North America,2022-07-10 18:23
+User003,41,Female,157,85,34.48,135,71,87,Curvy,XXL,False,Nike,Jeans,XXL,Too Small,Exchanged,Quality Issue,Spring,Online,Frequent Buyer,Yes,North America,2023-12-20 08:37
+User003,41,Female,157,85,34.48,135,71,87,Curvy,XXL,False,Nike,Jeans,XXL,Fit Well,Kept,,Spring,Online,Frequent Buyer,Yes,North America,2023-01-03 14:06
+User003,41,Female,157,85,34.48,135,71,87,Curvy,XXL,False,Uniqlo,Sweater,XXL,Too Small,Kept,,Spring,Online,Frequent Buyer,Yes,North America,2023-12-29 10:01
+User003,41,Female,157,85,34.48,135,71,87,Curvy,XXL,False,H&M,Sweater,XXL,Too Small,Returned,Changed Mind,Spring,Online,Frequent Buyer,Yes,North America,2023-05-31 21:00
+User003,41,Female,157,85,34.48,135,71,87,Curvy,XXL,False,Levi's,Jeans,XXL,Fit Well,Returned,Changed Mind,Spring,Online,Frequent Buyer,Yes,North America,2022-02-24 00:40
+User003,41,Female,157,85,34.48,135,71,87,Curvy,XXL,False,Levi's,T-shirt,XL,Too Small,Exchanged,Quality Issue,Spring,Online,Frequent Buyer,Yes,North America,2023-02-07 03:19
+User003,41,Female,157,85,34.48,135,71,87,Curvy,XXL,False,Zara,Jacket,L,Too Small,Kept,,Spring,Online,Frequent Buyer,Yes,North America,2023-06-02 21:20
+User003,41,Female,157,85,34.48,135,71,87,Curvy,XXL,False,Uniqlo,Sweater,XXL,Too Large,Returned,Fit Issue,Spring,Online,Frequent Buyer,Yes,North America,2023-02-06 02:15
+User003,41,Female,157,85,34.48,135,71,87,Curvy,XXL,False,Nike,T-shirt,L,Fit Well,Returned,Other,Spring,Online,Frequent Buyer,Yes,North America,2023-11-23 02:14
+User003,41,Female,157,85,34.48,135,71,87,Curvy,XXL,False,Levi's,Sweater,XL,Too Large,Returned,Other,Spring,Online,Frequent Buyer,Yes,North America,2022-08-21 03:41
+User003,41,Female,157,85,34.48,135,71,87,Curvy,XXL,False,Nike,Shorts,XXL,Too Small,Exchanged,Changed Mind,Spring,Online,Frequent Buyer,Yes,North America,2023-11-16 05:45
+User004,52,Male,168,95,33.66,123,90,113,Petite,XXL,False,Zara,Jacket,XXL,Too Large,Exchanged,Fit Issue,Autumn,In-Store,New Buyer,Yes,South America,2022-05-06 06:30
+User004,52,Male,168,95,33.66,123,90,113,Petite,XXL,False,Nike,Shorts,XXL,Too Small,Kept,,Autumn,In-Store,New Buyer,Yes,South America,2023-06-14 13:28
+User004,52,Male,168,95,33.66,123,90,113,Petite,XXL,False,Uniqlo,Dress,XXL,Fit Well,Exchanged,Fit Issue,Autumn,In-Store,New Buyer,Yes,South America,2022-07-18 01:00
+User004,52,Male,168,95,33.66,123,90,113,Petite,XXL,False,Nike,Jacket,XXL,Fit Well,Kept,,Autumn,In-Store,New Buyer,Yes,South America,2023-08-19 16:09
+User004,52,Male,168,95,33.66,123,90,113,Petite,XXL,False,Zara,Shorts,XXL,Fit Well,Kept,,Autumn,In-Store,New Buyer,Yes,South America,2023-04-28 11:08
+User004,52,Male,168,95,33.66,123,90,113,Petite,XXL,False,Nike,Sweater,XXL,Too Large,Kept,,Autumn,In-Store,New Buyer,Yes,South America,2022-10-08 00:59
+User004,52,Male,168,95,33.66,123,90,113,Petite,XXL,False,Levi's,Sweater,XXL,Too Small,Kept,,Autumn,In-Store,New Buyer,Yes,South America,2023-05-23 18:47
+User004,52,Male,168,95,33.66,123,90,113,Petite,XXL,False,Levi's,Jeans,XXL,Too Small,Exchanged,Changed Mind,Autumn,In-Store,New Buyer,Yes,South America,2022-04-17 02:12
+User004,52,Male,168,95,33.66,123,90,113,Petite,XXL,False,Zara,Jeans,XXL,Too Small,Returned,Changed Mind,Autumn,In-Store,New Buyer,Yes,South America,2022-11-03 07:45
+User004,52,Male,168,95,33.66,123,90,113,Petite,XXL,False,Nike,Sweater,XXL,Fit Well,Exchanged,Changed Mind,Autumn,In-Store,New Buyer,Yes,South America,2022-02-09 10:29
+User004,52,Male,168,95,33.66,123,90,113,Petite,XXL,False,Uniqlo,Skirt,XXL,Too Large,Kept,,Autumn,In-Store,New Buyer,Yes,South America,2022-05-04 00:16
+User004,52,Male,168,95,33.66,123,90,113,Petite,XXL,False,Nike,Jeans,XXL,Fit Well,Kept,,Autumn,In-Store,New Buyer,Yes,South America,2022-02-27 22:34
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,Zara,T-shirt,M,Too Large,Kept,,Autumn,Online,Occasional Buyer,No,South America,2023-10-27 20:54
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,H&M,Dress,XL,Too Large,Kept,,Autumn,Online,Occasional Buyer,No,South America,2022-07-13 09:27
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,H&M,Dress,XL,Too Large,Returned,Fit Issue,Autumn,Online,Occasional Buyer,No,South America,2022-04-02 06:32
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,Zara,Sweater,M,Fit Well,Kept,,Autumn,Online,Occasional Buyer,No,South America,2022-10-21 21:09
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,Uniqlo,T-shirt,XL,Too Large,Exchanged,Quality Issue,Autumn,Online,Occasional Buyer,No,South America,2022-05-30 23:12
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,Uniqlo,Jacket,XL,Too Small,Returned,Changed Mind,Autumn,Online,Occasional Buyer,No,South America,2023-08-17 00:53
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,Uniqlo,Dress,XL,Fit Well,Returned,Quality Issue,Autumn,Online,Occasional Buyer,No,South America,2022-07-23 01:55
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,H&M,Jacket,XL,Too Small,Exchanged,Quality Issue,Autumn,Online,Occasional Buyer,No,South America,2023-03-19 20:50
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,Uniqlo,Dress,XL,Fit Well,Kept,,Autumn,Online,Occasional Buyer,No,South America,2023-04-09 11:30
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,Zara,Jacket,M,Too Small,Returned,Quality Issue,Autumn,Online,Occasional Buyer,No,South America,2022-12-30 16:37
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,H&M,Skirt,XXL,Fit Well,Kept,,Autumn,Online,Occasional Buyer,No,South America,2022-12-17 19:15
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,Nike,Skirt,L,Fit Well,Kept,,Autumn,Online,Occasional Buyer,No,South America,2023-08-05 13:08
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,H&M,Skirt,XXL,Too Large,Kept,,Autumn,Online,Occasional Buyer,No,South America,2022-07-08 20:12
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,Nike,Jeans,L,Too Small,Exchanged,Other,Autumn,Online,Occasional Buyer,No,South America,2022-01-19 23:03
+User005,20,Female,156,73,30.0,122,63,112,Curvy,XL,False,H&M,Sweater,XL,Too Small,Exchanged,Quality Issue,Autumn,Online,Occasional Buyer,No,South America,2022-08-26 16:29
+User006,22,Non-Binary,188,91,25.75,95,78,102,Curvy,M,True,Uniqlo,Jacket,L,Too Large,Exchanged,Changed Mind,Autumn,Online,Frequent Buyer,Yes,South America,2023-07-16 16:25
+User006,22,Non-Binary,188,91,25.75,95,78,102,Curvy,M,True,Levi's,Dress,M,Too Small,Kept,,Autumn,Online,Frequent Buyer,Yes,South America,2022-09-17 18:34
+User006,22,Non-Binary,188,91,25.75,95,78,102,Curvy,M,True,Nike,Jeans,S,Fit Well,Returned,Other,Autumn,Online,Frequent Buyer,Yes,South America,2023-01-18 19:58
+User006,22,Non-Binary,188,91,25.75,95,78,102,Curvy,M,True,Zara,Skirt,S,Fit Well,Returned,Quality Issue,Autumn,Online,Frequent Buyer,Yes,South America,2022-04-21 20:02
+User006,22,Non-Binary,188,91,25.75,95,78,102,Curvy,M,True,Levi's,Jacket,M,Too Small,Returned,Changed Mind,Autumn,Online,Frequent Buyer,Yes,South America,2023-03-26 18:06
+User006,22,Non-Binary,188,91,25.75,95,78,102,Curvy,M,True,Uniqlo,Dress,L,Too Large,Kept,,Autumn,Online,Frequent Buyer,Yes,South America,2023-01-16 14:36
+User006,22,Non-Binary,188,91,25.75,95,78,102,Curvy,M,True,Nike,Jacket,S,Too Small,Kept,,Autumn,Online,Frequent Buyer,Yes,South America,2022-08-21 12:38
+User006,22,Non-Binary,188,91,25.75,95,78,102,Curvy,M,True,H&M,T-shirt,L,Fit Well,Kept,,Autumn,Online,Frequent Buyer,Yes,South America,2023-02-26 23:30
+User006,22,Non-Binary,188,91,25.75,95,78,102,Curvy,M,True,H&M,T-shirt,L,Too Small,Exchanged,Quality Issue,Autumn,Online,Frequent Buyer,Yes,South America,2022-04-13 00:15
+User006,22,Non-Binary,188,91,25.75,95,78,102,Curvy,M,True,Nike,Jacket,S,Fit Well,Kept,,Autumn,Online,Frequent Buyer,Yes,South America,2023-08-02 06:16
+User006,22,Non-Binary,188,91,25.75,95,78,102,Curvy,M,True,Zara,Shorts,S,Fit Well,Kept,,Autumn,Online,Frequent Buyer,Yes,South America,2023-06-18 13:59
+User006,22,Non-Binary,188,91,25.75,95,78,102,Curvy,M,True,H&M,Sweater,L,Too Large,Kept,,Autumn,Online,Frequent Buyer,Yes,South America,2023-01-28 07:18
+User007,31,Female,153,75,32.04,109,83,121,Petite,L,False,Uniqlo,Shorts,XL,Fit Well,Returned,Changed Mind,Summer,Online,Occasional Buyer,Yes,Australia,2022-09-17 09:35
+User007,31,Female,153,75,32.04,109,83,121,Petite,L,False,H&M,Skirt,XL,Fit Well,Exchanged,Quality Issue,Summer,Online,Occasional Buyer,Yes,Australia,2023-12-25 22:27
+User007,31,Female,153,75,32.04,109,83,121,Petite,L,False,H&M,Shorts,XL,Fit Well,Exchanged,Quality Issue,Summer,Online,Occasional Buyer,Yes,Australia,2022-04-17 22:59
+User007,31,Female,153,75,32.04,109,83,121,Petite,L,False,Levi's,Sweater,M,Too Small,Kept,,Summer,Online,Occasional Buyer,Yes,Australia,2023-08-15 08:10
+User007,31,Female,153,75,32.04,109,83,121,Petite,L,False,Zara,Jeans,M,Too Large,Returned,Other,Summer,Online,Occasional Buyer,Yes,Australia,2022-05-22 17:53
+User007,31,Female,153,75,32.04,109,83,121,Petite,L,False,Levi's,Dress,M,Too Large,Exchanged,Other,Summer,Online,Occasional Buyer,Yes,Australia,2022-10-08 21:50
+User007,31,Female,153,75,32.04,109,83,121,Petite,L,False,Levi's,Skirt,L,Too Large,Kept,,Summer,Online,Occasional Buyer,Yes,Australia,2023-04-01 06:53
+User007,31,Female,153,75,32.04,109,83,121,Petite,L,False,H&M,Dress,L,Too Large,Exchanged,Changed Mind,Summer,Online,Occasional Buyer,Yes,Australia,2022-09-30 08:31
+User007,31,Female,153,75,32.04,109,83,121,Petite,L,False,Uniqlo,Jacket,L,Too Large,Returned,Other,Summer,Online,Occasional Buyer,Yes,Australia,2022-01-08 06:58
+User007,31,Female,153,75,32.04,109,83,121,Petite,L,False,H&M,Dress,L,Fit Well,Kept,,Summer,Online,Occasional Buyer,Yes,Australia,2022-11-01 16:58
+User007,31,Female,153,75,32.04,109,83,121,Petite,L,False,Levi's,Sweater,M,Fit Well,Returned,Fit Issue,Summer,Online,Occasional Buyer,Yes,Australia,2022-02-11 05:24
+User007,31,Female,153,75,32.04,109,83,121,Petite,L,False,Levi's,Jeans,L,Fit Well,Returned,Changed Mind,Summer,Online,Occasional Buyer,Yes,Australia,2023-09-23 05:42
+User007,31,Female,153,75,32.04,109,83,121,Petite,L,False,Uniqlo,Sweater,L,Fit Well,Exchanged,Other,Summer,Online,Occasional Buyer,Yes,Australia,2023-07-31 16:28
+User008,64,Non-Binary,158,65,26.04,103,84,112,Petite,M,False,Uniqlo,Dress,L,Fit Well,Kept,,Winter,In-Store,Frequent Buyer,No,Africa,2022-03-02 22:36
+User008,64,Non-Binary,158,65,26.04,103,84,112,Petite,M,False,Levi's,T-shirt,L,Too Large,Returned,Other,Winter,In-Store,Frequent Buyer,No,Africa,2023-01-06 13:11
+User008,64,Non-Binary,158,65,26.04,103,84,112,Petite,M,False,Levi's,Shorts,L,Fit Well,Returned,Fit Issue,Winter,In-Store,Frequent Buyer,No,Africa,2023-10-24 09:28
+User008,64,Non-Binary,158,65,26.04,103,84,112,Petite,M,False,Nike,Jeans,L,Too Small,Kept,,Winter,In-Store,Frequent Buyer,No,Africa,2023-06-19 08:52
+User008,64,Non-Binary,158,65,26.04,103,84,112,Petite,M,False,Uniqlo,Sweater,L,Too Large,Kept,,Winter,In-Store,Frequent Buyer,No,Africa,2022-07-04 23:10
+User008,64,Non-Binary,158,65,26.04,103,84,112,Petite,M,False,Uniqlo,Sweater,L,Too Large,Exchanged,Quality Issue,Winter,In-Store,Frequent Buyer,No,Africa,2023-07-16 03:48
+User008,64,Non-Binary,158,65,26.04,103,84,112,Petite,M,False,H&M,Skirt,L,Too Large,Exchanged,Changed Mind,Winter,In-Store,Frequent Buyer,No,Africa,2023-04-12 01:18
+User008,64,Non-Binary,158,65,26.04,103,84,112,Petite,M,False,Levi's,Jeans,L,Too Small,Returned,Fit Issue,Winter,In-Store,Frequent Buyer,No,Africa,2023-03-10 00:14
+User008,64,Non-Binary,158,65,26.04,103,84,112,Petite,M,False,Nike,Dress,L,Too Small,Returned,Fit Issue,Winter,In-Store,Frequent Buyer,No,Africa,2023-11-07 03:32
+User008,64,Non-Binary,158,65,26.04,103,84,112,Petite,M,False,H&M,T-shirt,L,Too Large,Exchanged,Quality Issue,Winter,In-Store,Frequent Buyer,No,Africa,2023-01-10 15:30
+User008,64,Non-Binary,158,65,26.04,103,84,112,Petite,M,False,Zara,Sweater,L,Fit Well,Exchanged,Quality Issue,Winter,In-Store,Frequent Buyer,No,Africa,2023-12-10 01:39
+User008,64,Non-Binary,158,65,26.04,103,84,112,Petite,M,False,Levi's,Sweater,L,Fit Well,Returned,Other,Winter,In-Store,Frequent Buyer,No,Africa,2022-06-06 14:20
+User008,64,Non-Binary,158,65,26.04,103,84,112,Petite,M,False,Uniqlo,Dress,L,Fit Well,Returned,Quality Issue,Winter,In-Store,Frequent Buyer,No,Africa,2023-02-02 07:35
+User008,64,Non-Binary,158,65,26.04,103,84,112,Petite,M,False,Levi's,Dress,L,Too Large,Returned,Quality Issue,Winter,In-Store,Frequent Buyer,No,Africa,2022-03-01 00:51
+User009,60,Female,200,100,25.0,130,99,118,Petite,XXL,True,Nike,T-shirt,XXL,Too Large,Kept,,Summer,In-Store,New Buyer,Yes,Africa,2022-04-23 19:10
+User009,60,Female,200,100,25.0,130,99,118,Petite,XXL,True,Uniqlo,Shorts,XXL,Too Large,Returned,Other,Summer,In-Store,New Buyer,Yes,Africa,2022-04-24 14:05
+User009,60,Female,200,100,25.0,130,99,118,Petite,XXL,True,Levi's,Shorts,XXL,Fit Well,Returned,Fit Issue,Summer,In-Store,New Buyer,Yes,Africa,2023-09-15 02:20
+User009,60,Female,200,100,25.0,130,99,118,Petite,XXL,True,Zara,Jeans,XXL,Too Small,Exchanged,Other,Summer,In-Store,New Buyer,Yes,Africa,2022-04-15 00:45
+User009,60,Female,200,100,25.0,130,99,118,Petite,XXL,True,Nike,Shorts,XXL,Fit Well,Exchanged,Other,Summer,In-Store,New Buyer,Yes,Africa,2023-01-24 03:22
+User009,60,Female,200,100,25.0,130,99,118,Petite,XXL,True,Uniqlo,Shorts,XXL,Too Large,Kept,,Summer,In-Store,New Buyer,Yes,Africa,2023-07-05 12:27
+User009,60,Female,200,100,25.0,130,99,118,Petite,XXL,True,H&M,Jacket,XXL,Too Large,Kept,,Summer,In-Store,New Buyer,Yes,Africa,2023-11-09 16:02
+User009,60,Female,200,100,25.0,130,99,118,Petite,XXL,True,H&M,Skirt,XXL,Fit Well,Kept,,Summer,In-Store,New Buyer,Yes,Africa,2023-03-17 02:22
+User009,60,Female,200,100,25.0,130,99,118,Petite,XXL,True,Uniqlo,Sweater,XXL,Fit Well,Kept,,Summer,In-Store,New Buyer,Yes,Africa,2022-12-22 18:11
+User009,60,Female,200,100,25.0,130,99,118,Petite,XXL,True,Levi's,Sweater,XXL,Too Small,Kept,,Summer,In-Store,New Buyer,Yes,Africa,2022-11-10 00:13
+User009,60,Female,200,100,25.0,130,99,118,Petite,XXL,True,Levi's,Shorts,XXL,Too Large,Kept,,Summer,In-Store,New Buyer,Yes,Africa,2023-04-26 07:10
+User009,60,Female,200,100,25.0,130,99,118,Petite,XXL,True,Levi's,Sweater,XXL,Fit Well,Exchanged,Fit Issue,Summer,In-Store,New Buyer,Yes,Africa,2023-11-08 10:04
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,Levi's,T-shirt,L,Fit Well,Kept,,Summer,Online,Occasional Buyer,Yes,North America,2022-05-11 15:14
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,Zara,Dress,M,Too Small,Kept,,Summer,Online,Occasional Buyer,Yes,North America,2023-04-24 03:39
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,Nike,Sweater,M,Fit Well,Returned,Changed Mind,Summer,Online,Occasional Buyer,Yes,North America,2023-03-05 21:21
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,Nike,Jacket,M,Too Small,Returned,Changed Mind,Summer,Online,Occasional Buyer,Yes,North America,2023-11-19 09:48
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,Zara,Skirt,M,Too Large,Exchanged,Fit Issue,Summer,Online,Occasional Buyer,Yes,North America,2022-02-13 04:56
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,Zara,Sweater,M,Too Large,Kept,,Summer,Online,Occasional Buyer,Yes,North America,2022-08-22 20:55
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,Levi's,Sweater,L,Too Small,Exchanged,Quality Issue,Summer,Online,Occasional Buyer,Yes,North America,2023-07-03 05:02
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,Nike,Sweater,M,Fit Well,Kept,,Summer,Online,Occasional Buyer,Yes,North America,2023-02-02 13:35
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,H&M,Dress,XL,Too Small,Kept,,Summer,Online,Occasional Buyer,Yes,North America,2022-12-28 19:20
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,Nike,Sweater,M,Fit Well,Returned,Changed Mind,Summer,Online,Occasional Buyer,Yes,North America,2023-06-24 12:34
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,Zara,Jacket,M,Fit Well,Kept,,Summer,Online,Occasional Buyer,Yes,North America,2023-08-11 14:15
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,H&M,T-shirt,XL,Too Small,Exchanged,Other,Summer,Online,Occasional Buyer,Yes,North America,2023-01-28 11:50
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,Zara,Skirt,M,Fit Well,Kept,,Summer,Online,Occasional Buyer,Yes,North America,2022-06-24 14:18
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,Uniqlo,Sweater,XL,Too Small,Returned,Other,Summer,Online,Occasional Buyer,Yes,North America,2023-07-26 22:51
+User010,18,Male,164,102,37.92,105,88,120,Petite,L,True,Zara,Jacket,M,Too Small,Kept,,Summer,Online,Occasional Buyer,Yes,North America,2022-10-01 20:38
+User011,24,Non-Binary,166,90,32.66,97,84,118,Curvy,M,False,H&M,T-shirt,L,Fit Well,Kept,,Summer,In-Store,New Buyer,Yes,Asia,2022-08-29 01:45
+User011,24,Non-Binary,166,90,32.66,97,84,118,Curvy,M,False,Levi's,Skirt,M,Too Small,Exchanged,Fit Issue,Summer,In-Store,New Buyer,Yes,Asia,2022-10-18 11:06
+User011,24,Non-Binary,166,90,32.66,97,84,118,Curvy,M,False,Levi's,Shorts,M,Too Small,Kept,,Summer,In-Store,New Buyer,Yes,Asia,2022-02-02 16:20
+User011,24,Non-Binary,166,90,32.66,97,84,118,Curvy,M,False,Zara,Jeans,S,Fit Well,Exchanged,Changed Mind,Summer,In-Store,New Buyer,Yes,Asia,2022-11-30 15:52
+User011,24,Non-Binary,166,90,32.66,97,84,118,Curvy,M,False,Uniqlo,Jacket,L,Fit Well,Kept,,Summer,In-Store,New Buyer,Yes,Asia,2023-02-02 00:01
+User011,24,Non-Binary,166,90,32.66,97,84,118,Curvy,M,False,Uniqlo,Shorts,L,Fit Well,Kept,,Summer,In-Store,New Buyer,Yes,Asia,2023-02-15 04:30
+User011,24,Non-Binary,166,90,32.66,97,84,118,Curvy,M,False,Uniqlo,Jeans,L,Too Small,Exchanged,Fit Issue,Summer,In-Store,New Buyer,Yes,Asia,2022-07-28 06:36
+User011,24,Non-Binary,166,90,32.66,97,84,118,Curvy,M,False,H&M,Sweater,L,Too Large,Exchanged,Quality Issue,Summer,In-Store,New Buyer,Yes,Asia,2022-08-03 03:18
+User011,24,Non-Binary,166,90,32.66,97,84,118,Curvy,M,False,Levi's,Dress,M,Fit Well,Kept,,Summer,In-Store,New Buyer,Yes,Asia,2022-01-17 08:14
+User011,24,Non-Binary,166,90,32.66,97,84,118,Curvy,M,False,Uniqlo,Jacket,L,Fit Well,Exchanged,Changed Mind,Summer,In-Store,New Buyer,Yes,Asia,2022-07-23 03:04
+User011,24,Non-Binary,166,90,32.66,97,84,118,Curvy,M,False,Uniqlo,Skirt,L,Fit Well,Exchanged,Changed Mind,Summer,In-Store,New Buyer,Yes,Asia,2023-09-07 09:43
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,Zara,Sweater,XS,Too Large,Kept,,Summer,In-Store,Occasional Buyer,No,Asia,2023-09-03 12:28
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,Nike,T-shirt,XS,Too Large,Returned,Quality Issue,Summer,In-Store,Occasional Buyer,No,Asia,2022-07-20 11:19
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,Nike,Dress,XS,Too Large,Exchanged,Fit Issue,Summer,In-Store,Occasional Buyer,No,Asia,2022-09-13 18:46
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,H&M,T-shirt,XS,Too Large,Returned,Quality Issue,Summer,In-Store,Occasional Buyer,No,Asia,2022-02-26 07:19
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,Uniqlo,Jeans,M,Fit Well,Kept,,Summer,In-Store,Occasional Buyer,No,Asia,2022-08-31 01:07
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,Zara,T-shirt,XS,Too Large,Returned,Other,Summer,In-Store,Occasional Buyer,No,Asia,2022-11-26 05:01
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,H&M,T-shirt,XS,Too Large,Returned,Changed Mind,Summer,In-Store,Occasional Buyer,No,Asia,2022-05-30 03:44
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,Zara,Shorts,XS,Fit Well,Exchanged,Changed Mind,Summer,In-Store,Occasional Buyer,No,Asia,2023-10-09 00:17
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,Nike,Sweater,XS,Too Large,Returned,Changed Mind,Summer,In-Store,Occasional Buyer,No,Asia,2023-09-18 15:31
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,Levi's,Jeans,S,Too Small,Returned,Changed Mind,Summer,In-Store,Occasional Buyer,No,Asia,2023-07-08 02:43
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,H&M,Shorts,M,Too Large,Returned,Fit Issue,Summer,In-Store,Occasional Buyer,No,Asia,2023-09-14 05:46
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,Uniqlo,Sweater,XS,Too Small,Returned,Fit Issue,Summer,In-Store,Occasional Buyer,No,Asia,2023-08-29 01:50
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,Nike,T-shirt,XS,Too Large,Returned,Quality Issue,Summer,In-Store,Occasional Buyer,No,Asia,2022-04-03 17:35
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,Uniqlo,Dress,XS,Too Large,Returned,Other,Summer,In-Store,Occasional Buyer,No,Asia,2022-07-11 10:23
+User012,36,Female,150,49,21.78,90,76,91,Average,S,False,Levi's,Jeans,S,Fit Well,Exchanged,Changed Mind,Summer,In-Store,Occasional Buyer,No,Asia,2023-09-26 23:19
+User013,43,Female,182,85,25.66,118,99,120,Athletic,XL,True,H&M,Dress,XL,Too Large,Returned,Changed Mind,Summer,In-Store,Frequent Buyer,No,North America,2023-09-30 10:29
+User013,43,Female,182,85,25.66,118,99,120,Athletic,XL,True,H&M,Dress,XL,Fit Well,Returned,Fit Issue,Summer,In-Store,Frequent Buyer,No,North America,2023-09-02 20:50
+User013,43,Female,182,85,25.66,118,99,120,Athletic,XL,True,Uniqlo,Shorts,XXL,Too Large,Returned,Quality Issue,Summer,In-Store,Frequent Buyer,No,North America,2023-04-21 18:42
+User013,43,Female,182,85,25.66,118,99,120,Athletic,XL,True,Uniqlo,Skirt,XXL,Too Large,Kept,,Summer,In-Store,Frequent Buyer,No,North America,2023-10-25 15:04
+User013,43,Female,182,85,25.66,118,99,120,Athletic,XL,True,Zara,Sweater,M,Too Large,Kept,,Summer,In-Store,Frequent Buyer,No,North America,2023-01-24 06:19
+User013,43,Female,182,85,25.66,118,99,120,Athletic,XL,True,Uniqlo,Jacket,XL,Fit Well,Exchanged,Changed Mind,Summer,In-Store,Frequent Buyer,No,North America,2023-04-03 08:07
+User013,43,Female,182,85,25.66,118,99,120,Athletic,XL,True,H&M,Skirt,XXL,Fit Well,Kept,,Summer,In-Store,Frequent Buyer,No,North America,2023-05-05 08:10
+User013,43,Female,182,85,25.66,118,99,120,Athletic,XL,True,Uniqlo,Sweater,XL,Fit Well,Exchanged,Quality Issue,Summer,In-Store,Frequent Buyer,No,North America,2023-11-13 02:58
+User013,43,Female,182,85,25.66,118,99,120,Athletic,XL,True,Zara,T-shirt,M,Too Large,Exchanged,Fit Issue,Summer,In-Store,Frequent Buyer,No,North America,2023-11-21 11:07
+User013,43,Female,182,85,25.66,118,99,120,Athletic,XL,True,Uniqlo,T-shirt,XL,Fit Well,Returned,Fit Issue,Summer,In-Store,Frequent Buyer,No,North America,2022-04-15 20:48
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,Zara,Skirt,XXL,Too Small,Returned,Changed Mind,Spring,Online,New Buyer,No,Asia,2022-07-01 05:22
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,Levi's,Dress,XXL,Too Large,Kept,,Spring,Online,New Buyer,No,Asia,2022-07-25 08:53
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,Levi's,Shorts,XXL,Too Large,Kept,,Spring,Online,New Buyer,No,Asia,2023-11-01 05:37
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,Nike,Shorts,XXL,Too Large,Returned,Fit Issue,Spring,Online,New Buyer,No,Asia,2022-02-09 19:13
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,Zara,Shorts,XXL,Too Large,Returned,Changed Mind,Spring,Online,New Buyer,No,Asia,2022-04-09 08:38
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,Nike,Dress,XXL,Too Large,Kept,,Spring,Online,New Buyer,No,Asia,2022-10-12 17:17
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,Levi's,Jacket,XXL,Too Large,Kept,,Spring,Online,New Buyer,No,Asia,2022-04-08 04:14
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,H&M,Skirt,XXL,Fit Well,Returned,Fit Issue,Spring,Online,New Buyer,No,Asia,2022-12-20 14:53
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,Uniqlo,Dress,XXL,Fit Well,Returned,Changed Mind,Spring,Online,New Buyer,No,Asia,2022-02-21 12:09
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,Levi's,Jacket,XXL,Too Small,Returned,Other,Spring,Online,New Buyer,No,Asia,2023-07-05 06:12
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,Zara,Sweater,XXL,Fit Well,Exchanged,Fit Issue,Spring,Online,New Buyer,No,Asia,2022-12-05 16:10
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,Levi's,Skirt,XXL,Fit Well,Exchanged,Other,Spring,Online,New Buyer,No,Asia,2023-06-24 00:33
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,Nike,Jeans,XXL,Too Large,Exchanged,Fit Issue,Spring,Online,New Buyer,No,Asia,2022-01-31 19:27
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,Uniqlo,Shorts,XXL,Too Small,Returned,Changed Mind,Spring,Online,New Buyer,No,Asia,2023-11-10 16:32
+User014,47,Male,197,93,23.96,135,64,110,Petite,XXL,False,Levi's,Sweater,XXL,Too Small,Exchanged,Quality Issue,Spring,Online,New Buyer,No,Asia,2022-12-12 09:05
+User015,42,Non-Binary,191,86,23.57,95,109,116,Petite,S,False,Uniqlo,Shorts,M,Too Small,Kept,,Spring,In-Store,New Buyer,Yes,Africa,2023-09-17 12:41
+User015,42,Non-Binary,191,86,23.57,95,109,116,Petite,S,False,Levi's,Skirt,S,Too Large,Exchanged,Fit Issue,Spring,In-Store,New Buyer,Yes,Africa,2023-04-14 19:26
+User015,42,Non-Binary,191,86,23.57,95,109,116,Petite,S,False,Zara,T-shirt,XS,Too Small,Returned,Changed Mind,Spring,In-Store,New Buyer,Yes,Africa,2022-09-15 11:52
+User015,42,Non-Binary,191,86,23.57,95,109,116,Petite,S,False,Zara,T-shirt,XS,Too Large,Exchanged,Other,Spring,In-Store,New Buyer,Yes,Africa,2023-09-24 23:45
+User015,42,Non-Binary,191,86,23.57,95,109,116,Petite,S,False,Zara,T-shirt,XS,Fit Well,Returned,Changed Mind,Spring,In-Store,New Buyer,Yes,Africa,2022-01-05 04:27
+User015,42,Non-Binary,191,86,23.57,95,109,116,Petite,S,False,Zara,Sweater,XS,Too Large,Returned,Other,Spring,In-Store,New Buyer,Yes,Africa,2022-03-15 17:10
+User015,42,Non-Binary,191,86,23.57,95,109,116,Petite,S,False,Nike,Jeans,XS,Fit Well,Exchanged,Fit Issue,Spring,In-Store,New Buyer,Yes,Africa,2023-12-07 07:02
+User015,42,Non-Binary,191,86,23.57,95,109,116,Petite,S,False,Nike,T-shirt,XS,Fit Well,Returned,Changed Mind,Spring,In-Store,New Buyer,Yes,Africa,2022-01-18 17:03
+User015,42,Non-Binary,191,86,23.57,95,109,116,Petite,S,False,Levi's,Jacket,S,Fit Well,Exchanged,Quality Issue,Spring,In-Store,New Buyer,Yes,Africa,2022-03-17 11:55
+User015,42,Non-Binary,191,86,23.57,95,109,116,Petite,S,False,Zara,Sweater,XS,Too Large,Returned,Changed Mind,Spring,In-Store,New Buyer,Yes,Africa,2022-11-18 15:12
+User015,42,Non-Binary,191,86,23.57,95,109,116,Petite,S,False,Nike,T-shirt,XS,Too Large,Kept,,Spring,In-Store,New Buyer,Yes,Africa,2023-06-22 01:28
+User016,70,Non-Binary,183,47,14.03,100,61,112,Petite,M,False,Uniqlo,Jeans,L,Too Large,Returned,Changed Mind,Spring,In-Store,New Buyer,No,Asia,2022-06-11 22:29
+User016,70,Non-Binary,183,47,14.03,100,61,112,Petite,M,False,Nike,Dress,L,Too Small,Returned,Quality Issue,Spring,In-Store,New Buyer,No,Asia,2022-01-26 06:15
+User016,70,Non-Binary,183,47,14.03,100,61,112,Petite,M,False,Nike,Shorts,L,Too Large,Kept,,Spring,In-Store,New Buyer,No,Asia,2023-01-07 01:25
+User016,70,Non-Binary,183,47,14.03,100,61,112,Petite,M,False,Uniqlo,Dress,L,Fit Well,Kept,,Spring,In-Store,New Buyer,No,Asia,2022-10-25 10:26
+User016,70,Non-Binary,183,47,14.03,100,61,112,Petite,M,False,Uniqlo,Jeans,L,Too Large,Returned,Fit Issue,Spring,In-Store,New Buyer,No,Asia,2023-02-28 20:41
+User016,70,Non-Binary,183,47,14.03,100,61,112,Petite,M,False,Levi's,Dress,L,Fit Well,Kept,,Spring,In-Store,New Buyer,No,Asia,2023-07-19 07:21
+User016,70,Non-Binary,183,47,14.03,100,61,112,Petite,M,False,Uniqlo,Dress,L,Too Large,Returned,Quality Issue,Spring,In-Store,New Buyer,No,Asia,2023-10-28 10:28
+User016,70,Non-Binary,183,47,14.03,100,61,112,Petite,M,False,H&M,Shorts,L,Too Small,Kept,,Spring,In-Store,New Buyer,No,Asia,2022-07-28 04:55
+User016,70,Non-Binary,183,47,14.03,100,61,112,Petite,M,False,Levi's,Jacket,L,Too Large,Exchanged,Changed Mind,Spring,In-Store,New Buyer,No,Asia,2023-09-02 05:06
+User016,70,Non-Binary,183,47,14.03,100,61,112,Petite,M,False,H&M,Jacket,L,Too Small,Exchanged,Fit Issue,Spring,In-Store,New Buyer,No,Asia,2023-03-06 13:43
+User016,70,Non-Binary,183,47,14.03,100,61,112,Petite,M,False,Levi's,Shorts,L,Too Small,Kept,,Spring,In-Store,New Buyer,No,Asia,2023-02-16 18:49
+User016,70,Non-Binary,183,47,14.03,100,61,112,Petite,M,False,H&M,Sweater,L,Too Large,Kept,,Spring,In-Store,New Buyer,No,Asia,2023-11-27 10:53
+User016,70,Non-Binary,183,47,14.03,100,61,112,Petite,M,False,Nike,Shorts,L,Too Small,Returned,Other,Spring,In-Store,New Buyer,No,Asia,2022-06-05 04:02
+User016,70,Non-Binary,183,47,14.03,100,61,112,Petite,M,False,Uniqlo,Sweater,L,Too Small,Exchanged,Other,Spring,In-Store,New Buyer,No,Asia,2022-08-06 18:59
+User017,48,Non-Binary,157,117,47.47,95,101,92,Average,M,False,Uniqlo,Jacket,L,Too Large,Kept,,Winter,Online,Occasional Buyer,Yes,North America,2022-08-10 09:48
+User017,48,Non-Binary,157,117,47.47,95,101,92,Average,M,False,Zara,Dress,S,Fit Well,Kept,,Winter,Online,Occasional Buyer,Yes,North America,2022-02-27 14:52
+User017,48,Non-Binary,157,117,47.47,95,101,92,Average,M,False,Nike,T-shirt,S,Too Large,Exchanged,Changed Mind,Winter,Online,Occasional Buyer,Yes,North America,2022-06-06 16:03
+User017,48,Non-Binary,157,117,47.47,95,101,92,Average,M,False,Levi's,Shorts,M,Too Small,Kept,,Winter,Online,Occasional Buyer,Yes,North America,2023-01-06 20:43
+User017,48,Non-Binary,157,117,47.47,95,101,92,Average,M,False,Nike,Dress,S,Too Small,Exchanged,Changed Mind,Winter,Online,Occasional Buyer,Yes,North America,2023-01-28 20:54
+User017,48,Non-Binary,157,117,47.47,95,101,92,Average,M,False,Levi's,Shorts,M,Too Large,Exchanged,Changed Mind,Winter,Online,Occasional Buyer,Yes,North America,2022-07-22 12:56
+User017,48,Non-Binary,157,117,47.47,95,101,92,Average,M,False,H&M,Sweater,L,Fit Well,Returned,Changed Mind,Winter,Online,Occasional Buyer,Yes,North America,2022-04-04 12:12
+User017,48,Non-Binary,157,117,47.47,95,101,92,Average,M,False,H&M,Sweater,L,Fit Well,Returned,Changed Mind,Winter,Online,Occasional Buyer,Yes,North America,2022-11-29 19:58
+User017,48,Non-Binary,157,117,47.47,95,101,92,Average,M,False,Uniqlo,Shorts,L,Too Large,Exchanged,Fit Issue,Winter,Online,Occasional Buyer,Yes,North America,2023-04-09 09:23
+User017,48,Non-Binary,157,117,47.47,95,101,92,Average,M,False,H&M,T-shirt,L,Too Large,Returned,Other,Winter,Online,Occasional Buyer,Yes,North America,2022-06-20 19:01
+User017,48,Non-Binary,157,117,47.47,95,101,92,Average,M,False,Levi's,Dress,M,Fit Well,Kept,,Winter,Online,Occasional Buyer,Yes,North America,2022-07-03 09:26
+User017,48,Non-Binary,157,117,47.47,95,101,92,Average,M,False,Zara,Shorts,S,Fit Well,Kept,,Winter,Online,Occasional Buyer,Yes,North America,2023-07-31 05:53
+User017,48,Non-Binary,157,117,47.47,95,101,92,Average,M,False,Levi's,Jacket,M,Fit Well,Kept,,Winter,Online,Occasional Buyer,Yes,North America,2022-11-02 13:23
+User017,48,Non-Binary,157,117,47.47,95,101,92,Average,M,False,Nike,T-shirt,S,Too Large,Returned,Other,Winter,Online,Occasional Buyer,Yes,North America,2023-01-26 03:06
+User018,69,Non-Binary,159,65,25.71,132,85,91,Athletic,XXL,True,Nike,Shorts,XXL,Too Large,Exchanged,Changed Mind,Winter,Online,Occasional Buyer,Yes,Australia,2022-12-08 09:57
+User018,69,Non-Binary,159,65,25.71,132,85,91,Athletic,XXL,True,H&M,Skirt,XXL,Too Large,Kept,,Winter,Online,Occasional Buyer,Yes,Australia,2023-10-31 03:30
+User018,69,Non-Binary,159,65,25.71,132,85,91,Athletic,XXL,True,H&M,Shorts,XXL,Too Large,Returned,Quality Issue,Winter,Online,Occasional Buyer,Yes,Australia,2023-08-23 03:41
+User018,69,Non-Binary,159,65,25.71,132,85,91,Athletic,XXL,True,Nike,Shorts,XXL,Fit Well,Returned,Other,Winter,Online,Occasional Buyer,Yes,Australia,2023-04-21 20:40
+User018,69,Non-Binary,159,65,25.71,132,85,91,Athletic,XXL,True,H&M,Jeans,XXL,Too Small,Returned,Fit Issue,Winter,Online,Occasional Buyer,Yes,Australia,2023-12-24 08:33
+User018,69,Non-Binary,159,65,25.71,132,85,91,Athletic,XXL,True,Zara,Shorts,XXL,Fit Well,Kept,,Winter,Online,Occasional Buyer,Yes,Australia,2022-11-14 20:57
+User018,69,Non-Binary,159,65,25.71,132,85,91,Athletic,XXL,True,H&M,T-shirt,XXL,Too Small,Exchanged,Changed Mind,Winter,Online,Occasional Buyer,Yes,Australia,2022-12-25 22:35
+User018,69,Non-Binary,159,65,25.71,132,85,91,Athletic,XXL,True,Levi's,Sweater,XXL,Too Small,Returned,Fit Issue,Winter,Online,Occasional Buyer,Yes,Australia,2023-03-30 23:46
+User018,69,Non-Binary,159,65,25.71,132,85,91,Athletic,XXL,True,H&M,Sweater,XXL,Too Small,Kept,,Winter,Online,Occasional Buyer,Yes,Australia,2022-11-17 18:08
+User018,69,Non-Binary,159,65,25.71,132,85,91,Athletic,XXL,True,Levi's,Jeans,XXL,Fit Well,Kept,,Winter,Online,Occasional Buyer,Yes,Australia,2023-09-13 07:25
+User018,69,Non-Binary,159,65,25.71,132,85,91,Athletic,XXL,True,Zara,Jeans,XXL,Too Large,Returned,Changed Mind,Winter,Online,Occasional Buyer,Yes,Australia,2022-12-27 17:45
+User018,69,Non-Binary,159,65,25.71,132,85,91,Athletic,XXL,True,Levi's,Shorts,XXL,Fit Well,Kept,,Winter,Online,Occasional Buyer,Yes,Australia,2023-02-15 19:07
+User019,35,Non-Binary,155,93,38.71,83,68,100,Athletic,S,False,Uniqlo,Dress,M,Fit Well,Exchanged,Quality Issue,Autumn,Online,Frequent Buyer,No,North America,2023-09-07 05:21
+User019,35,Non-Binary,155,93,38.71,83,68,100,Athletic,S,False,H&M,Shorts,M,Too Large,Exchanged,Quality Issue,Autumn,Online,Frequent Buyer,No,North America,2022-08-07 02:19
+User019,35,Non-Binary,155,93,38.71,83,68,100,Athletic,S,False,Nike,T-shirt,XS,Fit Well,Returned,Changed Mind,Autumn,Online,Frequent Buyer,No,North America,2023-02-08 07:06
+User019,35,Non-Binary,155,93,38.71,83,68,100,Athletic,S,False,Levi's,Jacket,S,Too Small,Returned,Quality Issue,Autumn,Online,Frequent Buyer,No,North America,2023-12-13 02:53
+User019,35,Non-Binary,155,93,38.71,83,68,100,Athletic,S,False,Levi's,Shorts,S,Too Large,Kept,,Autumn,Online,Frequent Buyer,No,North America,2022-03-27 15:38
+User019,35,Non-Binary,155,93,38.71,83,68,100,Athletic,S,False,Nike,Shorts,XS,Fit Well,Kept,,Autumn,Online,Frequent Buyer,No,North America,2022-01-12 14:36
+User019,35,Non-Binary,155,93,38.71,83,68,100,Athletic,S,False,Zara,Skirt,XS,Too Small,Exchanged,Other,Autumn,Online,Frequent Buyer,No,North America,2023-05-29 03:54
+User019,35,Non-Binary,155,93,38.71,83,68,100,Athletic,S,False,Uniqlo,Skirt,M,Too Small,Kept,,Autumn,Online,Frequent Buyer,No,North America,2023-03-06 17:18
+User019,35,Non-Binary,155,93,38.71,83,68,100,Athletic,S,False,Zara,Skirt,XS,Too Small,Exchanged,Fit Issue,Autumn,Online,Frequent Buyer,No,North America,2023-12-07 14:32
+User019,35,Non-Binary,155,93,38.71,83,68,100,Athletic,S,False,H&M,Jacket,M,Fit Well,Exchanged,Changed Mind,Autumn,Online,Frequent Buyer,No,North America,2023-01-14 00:08
+User019,35,Non-Binary,155,93,38.71,83,68,100,Athletic,S,False,Nike,Dress,XS,Too Large,Exchanged,Quality Issue,Autumn,Online,Frequent Buyer,No,North America,2023-02-11 18:58
+User019,35,Non-Binary,155,93,38.71,83,68,100,Athletic,S,False,Uniqlo,T-shirt,M,Fit Well,Exchanged,Fit Issue,Autumn,Online,Frequent Buyer,No,North America,2022-05-19 01:34
+User019,35,Non-Binary,155,93,38.71,83,68,100,Athletic,S,False,Uniqlo,Dress,M,Too Large,Kept,,Autumn,Online,Frequent Buyer,No,North America,2022-03-12 17:13
+User019,35,Non-Binary,155,93,38.71,83,68,100,Athletic,S,False,Zara,Skirt,XS,Fit Well,Kept,,Autumn,Online,Frequent Buyer,No,North America,2023-06-19 10:04
+User020,60,Male,163,82,30.86,90,107,130,Petite,S,False,Levi's,Shorts,M,Fit Well,Returned,Quality Issue,Spring,In-Store,Frequent Buyer,No,Europe,2022-08-10 23:20
+User020,60,Male,163,82,30.86,90,107,130,Petite,S,False,Levi's,Shorts,M,Too Large,Kept,,Spring,In-Store,Frequent Buyer,No,Europe,2022-05-23 20:05
+User020,60,Male,163,82,30.86,90,107,130,Petite,S,False,H&M,Jacket,M,Fit Well,Returned,Fit Issue,Spring,In-Store,Frequent Buyer,No,Europe,2022-07-23 19:57
+User020,60,Male,163,82,30.86,90,107,130,Petite,S,False,Zara,Sweater,M,Too Large,Returned,Quality Issue,Spring,In-Store,Frequent Buyer,No,Europe,2022-05-19 19:29
+User020,60,Male,163,82,30.86,90,107,130,Petite,S,False,Nike,Jacket,M,Too Small,Returned,Quality Issue,Spring,In-Store,Frequent Buyer,No,Europe,2023-04-27 10:29
+User020,60,Male,163,82,30.86,90,107,130,Petite,S,False,Zara,Skirt,M,Too Large,Kept,,Spring,In-Store,Frequent Buyer,No,Europe,2023-04-18 18:44
+User020,60,Male,163,82,30.86,90,107,130,Petite,S,False,H&M,T-shirt,M,Fit Well,Kept,,Spring,In-Store,Frequent Buyer,No,Europe,2022-10-05 00:16
+User020,60,Male,163,82,30.86,90,107,130,Petite,S,False,Zara,Sweater,M,Fit Well,Exchanged,Quality Issue,Spring,In-Store,Frequent Buyer,No,Europe,2022-10-08 05:00
+User020,60,Male,163,82,30.86,90,107,130,Petite,S,False,Zara,T-shirt,M,Too Small,Exchanged,Changed Mind,Spring,In-Store,Frequent Buyer,No,Europe,2022-08-03 08:32
+User020,60,Male,163,82,30.86,90,107,130,Petite,S,False,Zara,Skirt,M,Too Small,Kept,,Spring,In-Store,Frequent Buyer,No,Europe,2022-11-30 23:18
+User020,60,Male,163,82,30.86,90,107,130,Petite,S,False,Nike,Sweater,M,Too Large,Kept,,Spring,In-Store,Frequent Buyer,No,Europe,2022-12-14 18:23
+User021,30,Male,176,73,23.57,124,66,102,Average,XL,False,Levi's,T-shirt,XL,Too Large,Exchanged,Other,Autumn,In-Store,New Buyer,Yes,South America,2023-12-16 02:25
+User021,30,Male,176,73,23.57,124,66,102,Average,XL,False,H&M,Shorts,XXL,Too Small,Kept,,Autumn,In-Store,New Buyer,Yes,South America,2022-04-02 13:56
+User021,30,Male,176,73,23.57,124,66,102,Average,XL,False,H&M,Sweater,XXL,Too Small,Returned,Quality Issue,Autumn,In-Store,New Buyer,Yes,South America,2023-04-22 04:46
+User021,30,Male,176,73,23.57,124,66,102,Average,XL,False,Nike,Jacket,L,Fit Well,Exchanged,Other,Autumn,In-Store,New Buyer,Yes,South America,2023-03-12 17:32
+User021,30,Male,176,73,23.57,124,66,102,Average,XL,False,Nike,T-shirt,L,Too Small,Returned,Fit Issue,Autumn,In-Store,New Buyer,Yes,South America,2022-12-30 05:42
+User021,30,Male,176,73,23.57,124,66,102,Average,XL,False,H&M,Jeans,XXL,Too Large,Kept,,Autumn,In-Store,New Buyer,Yes,South America,2023-12-21 06:22
+User021,30,Male,176,73,23.57,124,66,102,Average,XL,False,Nike,Dress,L,Fit Well,Exchanged,Fit Issue,Autumn,In-Store,New Buyer,Yes,South America,2023-12-15 04:32
+User021,30,Male,176,73,23.57,124,66,102,Average,XL,False,H&M,Shorts,XXL,Too Small,Kept,,Autumn,In-Store,New Buyer,Yes,South America,2022-07-02 11:11
+User021,30,Male,176,73,23.57,124,66,102,Average,XL,False,Nike,Sweater,L,Too Large,Exchanged,Quality Issue,Autumn,In-Store,New Buyer,Yes,South America,2023-08-29 19:52
+User021,30,Male,176,73,23.57,124,66,102,Average,XL,False,Zara,Skirt,L,Too Small,Kept,,Autumn,In-Store,New Buyer,Yes,South America,2022-05-24 17:25
+User021,30,Male,176,73,23.57,124,66,102,Average,XL,False,Uniqlo,Dress,XXL,Too Large,Kept,,Autumn,In-Store,New Buyer,Yes,South America,2023-07-25 12:35
+User021,30,Male,176,73,23.57,124,66,102,Average,XL,False,Uniqlo,Jacket,XXL,Too Small,Kept,,Autumn,In-Store,New Buyer,Yes,South America,2023-06-22 23:21
+User021,30,Male,176,73,23.57,124,66,102,Average,XL,False,Zara,Skirt,L,Too Large,Exchanged,Quality Issue,Autumn,In-Store,New Buyer,Yes,South America,2023-04-08 02:42
+User021,30,Male,176,73,23.57,124,66,102,Average,XL,False,Zara,T-shirt,L,Too Small,Kept,,Autumn,In-Store,New Buyer,Yes,South America,2022-08-18 02:52
+User022,25,Non-Binary,164,71,26.4,120,106,90,Average,XL,False,Nike,Shorts,L,Too Small,Exchanged,Quality Issue,Summer,Online,New Buyer,No,Europe,2023-10-20 10:36
+User022,25,Non-Binary,164,71,26.4,120,106,90,Average,XL,False,Nike,Dress,L,Too Large,Returned,Changed Mind,Summer,Online,New Buyer,No,Europe,2022-11-17 23:26
+User022,25,Non-Binary,164,71,26.4,120,106,90,Average,XL,False,Levi's,Skirt,XL,Too Small,Returned,Other,Summer,Online,New Buyer,No,Europe,2022-01-28 15:32
+User022,25,Non-Binary,164,71,26.4,120,106,90,Average,XL,False,Levi's,Jeans,XL,Too Small,Exchanged,Changed Mind,Summer,Online,New Buyer,No,Europe,2023-10-09 02:11
+User022,25,Non-Binary,164,71,26.4,120,106,90,Average,XL,False,Levi's,Jacket,XL,Fit Well,Exchanged,Quality Issue,Summer,Online,New Buyer,No,Europe,2022-10-22 04:37
+User022,25,Non-Binary,164,71,26.4,120,106,90,Average,XL,False,Uniqlo,Skirt,XXL,Too Small,Kept,,Summer,Online,New Buyer,No,Europe,2022-05-21 10:01
+User022,25,Non-Binary,164,71,26.4,120,106,90,Average,XL,False,Uniqlo,Jeans,XXL,Too Small,Exchanged,Other,Summer,Online,New Buyer,No,Europe,2023-04-04 05:20
+User022,25,Non-Binary,164,71,26.4,120,106,90,Average,XL,False,Zara,Skirt,L,Too Small,Exchanged,Fit Issue,Summer,Online,New Buyer,No,Europe,2022-12-14 12:36
+User022,25,Non-Binary,164,71,26.4,120,106,90,Average,XL,False,Uniqlo,Dress,XXL,Too Small,Returned,Quality Issue,Summer,Online,New Buyer,No,Europe,2022-03-10 08:11
+User022,25,Non-Binary,164,71,26.4,120,106,90,Average,XL,False,H&M,T-shirt,XXL,Fit Well,Returned,Fit Issue,Summer,Online,New Buyer,No,Europe,2022-08-29 03:29
+User023,53,Non-Binary,177,79,25.22,104,87,93,Athletic,M,False,Zara,Sweater,S,Fit Well,Returned,Changed Mind,Autumn,In-Store,Frequent Buyer,Yes,Australia,2023-10-29 09:37
+User023,53,Non-Binary,177,79,25.22,104,87,93,Athletic,M,False,Levi's,Dress,M,Too Large,Returned,Other,Autumn,In-Store,Frequent Buyer,Yes,Australia,2022-02-21 20:57
+User023,53,Non-Binary,177,79,25.22,104,87,93,Athletic,M,False,Uniqlo,Dress,L,Fit Well,Kept,,Autumn,In-Store,Frequent Buyer,Yes,Australia,2023-12-06 12:20
+User023,53,Non-Binary,177,79,25.22,104,87,93,Athletic,M,False,Zara,Jacket,S,Fit Well,Exchanged,Changed Mind,Autumn,In-Store,Frequent Buyer,Yes,Australia,2023-08-12 18:42
+User023,53,Non-Binary,177,79,25.22,104,87,93,Athletic,M,False,Zara,Skirt,S,Too Small,Returned,Fit Issue,Autumn,In-Store,Frequent Buyer,Yes,Australia,2023-07-27 04:31
+User023,53,Non-Binary,177,79,25.22,104,87,93,Athletic,M,False,Zara,Shorts,S,Too Small,Returned,Other,Autumn,In-Store,Frequent Buyer,Yes,Australia,2023-04-13 15:00
+User023,53,Non-Binary,177,79,25.22,104,87,93,Athletic,M,False,Zara,Shorts,S,Too Small,Returned,Other,Autumn,In-Store,Frequent Buyer,Yes,Australia,2022-02-13 06:23
+User023,53,Non-Binary,177,79,25.22,104,87,93,Athletic,M,False,Uniqlo,Skirt,L,Fit Well,Exchanged,Quality Issue,Autumn,In-Store,Frequent Buyer,Yes,Australia,2023-08-22 23:57
+User023,53,Non-Binary,177,79,25.22,104,87,93,Athletic,M,False,Uniqlo,Skirt,L,Too Small,Exchanged,Quality Issue,Autumn,In-Store,Frequent Buyer,Yes,Australia,2022-05-24 12:34
+User023,53,Non-Binary,177,79,25.22,104,87,93,Athletic,M,False,Levi's,Dress,M,Too Large,Returned,Fit Issue,Autumn,In-Store,Frequent Buyer,Yes,Australia,2022-08-29 18:55
+User023,53,Non-Binary,177,79,25.22,104,87,93,Athletic,M,False,Nike,Dress,S,Fit Well,Returned,Changed Mind,Autumn,In-Store,Frequent Buyer,Yes,Australia,2023-05-14 15:54
+User023,53,Non-Binary,177,79,25.22,104,87,93,Athletic,M,False,Zara,Jeans,S,Too Small,Kept,,Autumn,In-Store,Frequent Buyer,Yes,Australia,2022-09-21 15:44
+User023,53,Non-Binary,177,79,25.22,104,87,93,Athletic,M,False,Levi's,Dress,M,Too Small,Kept,,Autumn,In-Store,Frequent Buyer,Yes,Australia,2023-11-09 17:53
+User023,53,Non-Binary,177,79,25.22,104,87,93,Athletic,M,False,Zara,Jacket,S,Fit Well,Returned,Changed Mind,Autumn,In-Store,Frequent Buyer,Yes,Australia,2022-05-12 23:53
+User024,45,Female,150,108,48.0,125,90,96,Athletic,XXL,False,H&M,Sweater,XXL,Too Large,Returned,Other,Summer,Online,New Buyer,Yes,North America,2023-10-09 15:03
+User024,45,Female,150,108,48.0,125,90,96,Athletic,XXL,False,Levi's,Dress,XL,Too Large,Returned,Other,Summer,Online,New Buyer,Yes,North America,2022-06-23 03:56
+User024,45,Female,150,108,48.0,125,90,96,Athletic,XXL,False,Uniqlo,Sweater,XXL,Fit Well,Exchanged,Changed Mind,Summer,Online,New Buyer,Yes,North America,2022-03-19 15:14
+User024,45,Female,150,108,48.0,125,90,96,Athletic,XXL,False,Levi's,Jacket,XL,Too Small,Returned,Other,Summer,Online,New Buyer,Yes,North America,2023-02-07 23:59
+User024,45,Female,150,108,48.0,125,90,96,Athletic,XXL,False,H&M,Jeans,XXL,Too Small,Returned,Quality Issue,Summer,Online,New Buyer,Yes,North America,2023-10-23 16:32
+User024,45,Female,150,108,48.0,125,90,96,Athletic,XXL,False,Uniqlo,Skirt,XXL,Too Small,Kept,,Summer,Online,New Buyer,Yes,North America,2022-05-19 09:49
+User024,45,Female,150,108,48.0,125,90,96,Athletic,XXL,False,Uniqlo,Skirt,XXL,Too Small,Returned,Changed Mind,Summer,Online,New Buyer,Yes,North America,2022-04-03 10:49
+User024,45,Female,150,108,48.0,125,90,96,Athletic,XXL,False,Levi's,Sweater,XL,Too Small,Returned,Quality Issue,Summer,Online,New Buyer,Yes,North America,2022-11-22 19:56
+User024,45,Female,150,108,48.0,125,90,96,Athletic,XXL,False,Nike,Skirt,XXL,Fit Well,Exchanged,Other,Summer,Online,New Buyer,Yes,North America,2022-11-21 12:22
+User024,45,Female,150,108,48.0,125,90,96,Athletic,XXL,False,Nike,Shorts,XXL,Too Small,Exchanged,Changed Mind,Summer,Online,New Buyer,Yes,North America,2023-08-24 09:57
+User024,45,Female,150,108,48.0,125,90,96,Athletic,XXL,False,Zara,Jeans,XXL,Fit Well,Kept,,Summer,Online,New Buyer,Yes,North America,2023-04-28 11:46
+User024,45,Female,150,108,48.0,125,90,96,Athletic,XXL,False,Levi's,Dress,XL,Fit Well,Returned,Fit Issue,Summer,Online,New Buyer,Yes,North America,2023-12-23 07:56
+User024,45,Female,150,108,48.0,125,90,96,Athletic,XXL,False,Zara,Skirt,XXL,Fit Well,Exchanged,Fit Issue,Summer,Online,New Buyer,Yes,North America,2023-09-16 13:29
+User025,70,Male,159,52,20.57,100,66,108,Petite,M,True,Levi's,Shorts,L,Too Small,Kept,,Spring,Online,Frequent Buyer,Yes,Europe,2023-07-31 16:02
+User025,70,Male,159,52,20.57,100,66,108,Petite,M,True,Zara,T-shirt,L,Too Small,Kept,,Spring,Online,Frequent Buyer,Yes,Europe,2023-11-24 17:40
+User025,70,Male,159,52,20.57,100,66,108,Petite,M,True,Nike,Skirt,L,Too Small,Kept,,Spring,Online,Frequent Buyer,Yes,Europe,2023-06-01 02:22
+User025,70,Male,159,52,20.57,100,66,108,Petite,M,True,Nike,T-shirt,L,Too Small,Exchanged,Fit Issue,Spring,Online,Frequent Buyer,Yes,Europe,2023-05-20 23:50
+User025,70,Male,159,52,20.57,100,66,108,Petite,M,True,H&M,Skirt,L,Fit Well,Returned,Changed Mind,Spring,Online,Frequent Buyer,Yes,Europe,2023-09-05 07:04
+User025,70,Male,159,52,20.57,100,66,108,Petite,M,True,Levi's,Jeans,L,Too Small,Exchanged,Fit Issue,Spring,Online,Frequent Buyer,Yes,Europe,2022-05-19 09:11
+User025,70,Male,159,52,20.57,100,66,108,Petite,M,True,H&M,T-shirt,L,Fit Well,Returned,Quality Issue,Spring,Online,Frequent Buyer,Yes,Europe,2022-05-17 00:00
+User025,70,Male,159,52,20.57,100,66,108,Petite,M,True,Nike,Jeans,L,Too Large,Kept,,Spring,Online,Frequent Buyer,Yes,Europe,2023-02-05 05:53
+User025,70,Male,159,52,20.57,100,66,108,Petite,M,True,Nike,Jeans,L,Fit Well,Exchanged,Quality Issue,Spring,Online,Frequent Buyer,Yes,Europe,2022-06-18 05:11
+User025,70,Male,159,52,20.57,100,66,108,Petite,M,True,H&M,Jeans,L,Fit Well,Returned,Changed Mind,Spring,Online,Frequent Buyer,Yes,Europe,2022-07-23 09:37
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,Levi's,T-shirt,S,Too Small,Kept,,Autumn,In-Store,New Buyer,Yes,Africa,2023-06-26 07:58
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,Zara,Jeans,S,Fit Well,Exchanged,Changed Mind,Autumn,In-Store,New Buyer,Yes,Africa,2022-03-09 13:35
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,Nike,Jeans,S,Too Large,Kept,,Autumn,In-Store,New Buyer,Yes,Africa,2022-07-25 16:36
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,H&M,T-shirt,M,Too Small,Kept,,Autumn,In-Store,New Buyer,Yes,Africa,2022-03-03 02:16
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,Levi's,Skirt,M,Fit Well,Kept,,Autumn,In-Store,New Buyer,Yes,Africa,2023-12-03 17:49
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,Nike,Skirt,S,Fit Well,Exchanged,Quality Issue,Autumn,In-Store,New Buyer,Yes,Africa,2022-10-14 00:33
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,Uniqlo,Jeans,L,Too Small,Kept,,Autumn,In-Store,New Buyer,Yes,Africa,2023-10-29 13:04
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,H&M,Sweater,M,Too Large,Returned,Other,Autumn,In-Store,New Buyer,Yes,Africa,2023-01-21 09:12
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,Uniqlo,T-shirt,M,Too Large,Exchanged,Fit Issue,Autumn,In-Store,New Buyer,Yes,Africa,2022-09-10 22:57
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,Zara,Jeans,S,Fit Well,Kept,,Autumn,In-Store,New Buyer,Yes,Africa,2022-01-27 14:54
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,Uniqlo,Sweater,M,Fit Well,Returned,Changed Mind,Autumn,In-Store,New Buyer,Yes,Africa,2022-06-18 22:03
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,Zara,Skirt,S,Too Small,Exchanged,Other,Autumn,In-Store,New Buyer,Yes,Africa,2022-04-24 11:41
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,Zara,Dress,XS,Too Large,Exchanged,Other,Autumn,In-Store,New Buyer,Yes,Africa,2022-07-24 06:29
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,Zara,Dress,XS,Too Large,Returned,Changed Mind,Autumn,In-Store,New Buyer,Yes,Africa,2023-02-19 20:37
+User026,18,Female,177,83,26.49,98,87,85,Curvy,M,False,Levi's,Sweater,S,Fit Well,Exchanged,Other,Autumn,In-Store,New Buyer,Yes,Africa,2023-12-27 07:01
+User027,31,Male,181,86,26.25,117,86,120,Petite,XL,False,Uniqlo,Dress,XXL,Too Small,Returned,Changed Mind,Winter,In-Store,Occasional Buyer,Yes,Asia,2023-03-09 22:40
+User027,31,Male,181,86,26.25,117,86,120,Petite,XL,False,Uniqlo,Shorts,XXL,Too Small,Kept,,Winter,In-Store,Occasional Buyer,Yes,Asia,2022-07-12 02:36
+User027,31,Male,181,86,26.25,117,86,120,Petite,XL,False,Levi's,Shorts,XL,Too Large,Kept,,Winter,In-Store,Occasional Buyer,Yes,Asia,2022-09-03 05:58
+User027,31,Male,181,86,26.25,117,86,120,Petite,XL,False,Levi's,T-shirt,XL,Fit Well,Exchanged,Other,Winter,In-Store,Occasional Buyer,Yes,Asia,2022-05-08 14:21
+User027,31,Male,181,86,26.25,117,86,120,Petite,XL,False,Nike,Sweater,L,Too Large,Kept,,Winter,In-Store,Occasional Buyer,Yes,Asia,2022-12-01 08:29
+User027,31,Male,181,86,26.25,117,86,120,Petite,XL,False,Levi's,Skirt,XL,Too Small,Kept,,Winter,In-Store,Occasional Buyer,Yes,Asia,2023-03-07 18:30
+User027,31,Male,181,86,26.25,117,86,120,Petite,XL,False,Uniqlo,T-shirt,XXL,Fit Well,Kept,,Winter,In-Store,Occasional Buyer,Yes,Asia,2022-10-11 13:12
+User027,31,Male,181,86,26.25,117,86,120,Petite,XL,False,Levi's,T-shirt,XL,Too Small,Exchanged,Quality Issue,Winter,In-Store,Occasional Buyer,Yes,Asia,2023-09-01 08:12
+User027,31,Male,181,86,26.25,117,86,120,Petite,XL,False,H&M,Dress,XXL,Too Small,Returned,Fit Issue,Winter,In-Store,Occasional Buyer,Yes,Asia,2022-11-23 21:25
+User027,31,Male,181,86,26.25,117,86,120,Petite,XL,False,H&M,Jacket,XXL,Fit Well,Exchanged,Quality Issue,Winter,In-Store,Occasional Buyer,Yes,Asia,2023-05-12 02:53
+User027,31,Male,181,86,26.25,117,86,120,Petite,XL,False,Levi's,Shorts,XL,Too Small,Returned,Fit Issue,Winter,In-Store,Occasional Buyer,Yes,Asia,2023-07-31 19:02
+User027,31,Male,181,86,26.25,117,86,120,Petite,XL,False,Uniqlo,Dress,XXL,Too Large,Returned,Fit Issue,Winter,In-Store,Occasional Buyer,Yes,Asia,2022-01-11 06:17
+User027,31,Male,181,86,26.25,117,86,120,Petite,XL,False,Levi's,Jeans,XL,Too Small,Exchanged,Changed Mind,Winter,In-Store,Occasional Buyer,Yes,Asia,2023-10-27 02:19
+User027,31,Male,181,86,26.25,117,86,120,Petite,XL,False,Levi's,Shorts,XL,Fit Well,Kept,,Winter,In-Store,Occasional Buyer,Yes,Asia,2022-07-06 05:29
+User028,65,Male,191,92,25.22,97,97,112,Average,L,False,Zara,Dress,XL,Too Large,Returned,Other,Spring,In-Store,New Buyer,Yes,South America,2023-12-13 17:45
+User028,65,Male,191,92,25.22,97,97,112,Average,L,False,Zara,T-shirt,XL,Too Small,Kept,,Spring,In-Store,New Buyer,Yes,South America,2023-03-22 06:12
+User028,65,Male,191,92,25.22,97,97,112,Average,L,False,Levi's,Skirt,XL,Too Small,Kept,,Spring,In-Store,New Buyer,Yes,South America,2023-01-18 22:33
+User028,65,Male,191,92,25.22,97,97,112,Average,L,False,Uniqlo,Sweater,XL,Fit Well,Returned,Changed Mind,Spring,In-Store,New Buyer,Yes,South America,2022-12-01 02:17
+User028,65,Male,191,92,25.22,97,97,112,Average,L,False,H&M,Skirt,XL,Too Small,Exchanged,Changed Mind,Spring,In-Store,New Buyer,Yes,South America,2022-11-26 22:40
+User028,65,Male,191,92,25.22,97,97,112,Average,L,False,H&M,Dress,XL,Too Small,Exchanged,Changed Mind,Spring,In-Store,New Buyer,Yes,South America,2023-08-23 03:16
+User028,65,Male,191,92,25.22,97,97,112,Average,L,False,Levi's,Skirt,XL,Fit Well,Exchanged,Other,Spring,In-Store,New Buyer,Yes,South America,2022-04-17 13:04
+User028,65,Male,191,92,25.22,97,97,112,Average,L,False,Uniqlo,Dress,XL,Fit Well,Exchanged,Quality Issue,Spring,In-Store,New Buyer,Yes,South America,2022-11-07 13:28
+User028,65,Male,191,92,25.22,97,97,112,Average,L,False,Zara,Jacket,XL,Fit Well,Returned,Fit Issue,Spring,In-Store,New Buyer,Yes,South America,2023-04-22 15:37
+User028,65,Male,191,92,25.22,97,97,112,Average,L,False,H&M,Shorts,XL,Fit Well,Exchanged,Quality Issue,Spring,In-Store,New Buyer,Yes,South America,2022-07-03 16:38
+User028,65,Male,191,92,25.22,97,97,112,Average,L,False,Uniqlo,Shorts,XL,Fit Well,Kept,,Spring,In-Store,New Buyer,Yes,South America,2022-04-24 01:06
+User029,32,Non-Binary,187,80,22.88,99,82,110,Curvy,M,False,H&M,Dress,L,Too Large,Exchanged,Quality Issue,Winter,Online,Occasional Buyer,Yes,Europe,2023-07-21 21:25
+User029,32,Non-Binary,187,80,22.88,99,82,110,Curvy,M,False,Zara,Jacket,S,Fit Well,Kept,,Winter,Online,Occasional Buyer,Yes,Europe,2022-03-25 03:02
+User029,32,Non-Binary,187,80,22.88,99,82,110,Curvy,M,False,Levi's,Dress,M,Fit Well,Kept,,Winter,Online,Occasional Buyer,Yes,Europe,2023-11-06 21:02
+User029,32,Non-Binary,187,80,22.88,99,82,110,Curvy,M,False,H&M,Sweater,L,Too Small,Kept,,Winter,Online,Occasional Buyer,Yes,Europe,2023-03-04 00:41
+User029,32,Non-Binary,187,80,22.88,99,82,110,Curvy,M,False,Levi's,Jeans,M,Too Large,Returned,Changed Mind,Winter,Online,Occasional Buyer,Yes,Europe,2023-02-08 05:15
+User029,32,Non-Binary,187,80,22.88,99,82,110,Curvy,M,False,Levi's,T-shirt,M,Too Large,Returned,Other,Winter,Online,Occasional Buyer,Yes,Europe,2022-11-19 03:17
+User029,32,Non-Binary,187,80,22.88,99,82,110,Curvy,M,False,Zara,Shorts,S,Too Small,Exchanged,Quality Issue,Winter,Online,Occasional Buyer,Yes,Europe,2022-03-20 08:42
+User029,32,Non-Binary,187,80,22.88,99,82,110,Curvy,M,False,H&M,Sweater,L,Too Small,Kept,,Winter,Online,Occasional Buyer,Yes,Europe,2023-04-17 08:00
+User029,32,Non-Binary,187,80,22.88,99,82,110,Curvy,M,False,Zara,Shorts,S,Too Small,Exchanged,Changed Mind,Winter,Online,Occasional Buyer,Yes,Europe,2022-08-24 11:22
+User029,32,Non-Binary,187,80,22.88,99,82,110,Curvy,M,False,Zara,Jacket,S,Fit Well,Returned,Changed Mind,Winter,Online,Occasional Buyer,Yes,Europe,2022-06-10 16:40
+User029,32,Non-Binary,187,80,22.88,99,82,110,Curvy,M,False,Nike,Dress,S,Too Small,Exchanged,Fit Issue,Winter,Online,Occasional Buyer,Yes,Europe,2023-08-05 14:57
+User030,48,Male,183,103,30.76,132,83,82,Athletic,XXL,False,H&M,T-shirt,XXL,Too Large,Exchanged,Other,Winter,Online,Occasional Buyer,Yes,South America,2022-06-15 18:23
+User030,48,Male,183,103,30.76,132,83,82,Athletic,XXL,False,H&M,Shorts,XXL,Fit Well,Exchanged,Fit Issue,Winter,Online,Occasional Buyer,Yes,South America,2022-10-11 21:59
+User030,48,Male,183,103,30.76,132,83,82,Athletic,XXL,False,H&M,Jeans,XXL,Too Large,Returned,Changed Mind,Winter,Online,Occasional Buyer,Yes,South America,2022-09-06 09:49
+User030,48,Male,183,103,30.76,132,83,82,Athletic,XXL,False,Uniqlo,T-shirt,XXL,Too Small,Kept,,Winter,Online,Occasional Buyer,Yes,South America,2022-04-25 00:16
+User030,48,Male,183,103,30.76,132,83,82,Athletic,XXL,False,Levi's,Jacket,XXL,Too Large,Returned,Quality Issue,Winter,Online,Occasional Buyer,Yes,South America,2022-05-07 14:43
+User030,48,Male,183,103,30.76,132,83,82,Athletic,XXL,False,H&M,Jeans,XXL,Too Small,Kept,,Winter,Online,Occasional Buyer,Yes,South America,2022-02-10 02:52
+User030,48,Male,183,103,30.76,132,83,82,Athletic,XXL,False,Uniqlo,Dress,XXL,Too Small,Returned,Fit Issue,Winter,Online,Occasional Buyer,Yes,South America,2022-12-10 06:47
+User030,48,Male,183,103,30.76,132,83,82,Athletic,XXL,False,Uniqlo,Jacket,XXL,Too Large,Kept,,Winter,Online,Occasional Buyer,Yes,South America,2023-09-05 16:48
+User030,48,Male,183,103,30.76,132,83,82,Athletic,XXL,False,Uniqlo,Shorts,XXL,Fit Well,Returned,Other,Winter,Online,Occasional Buyer,Yes,South America,2023-11-22 06:03
+User030,48,Male,183,103,30.76,132,83,82,Athletic,XXL,False,Uniqlo,T-shirt,XXL,Too Large,Kept,,Winter,Online,Occasional Buyer,Yes,South America,2022-10-18 02:00
+User030,48,Male,183,103,30.76,132,83,82,Athletic,XXL,False,H&M,Shorts,XXL,Too Small,Exchanged,Fit Issue,Winter,Online,Occasional Buyer,Yes,South America,2022-12-19 17:55
+User030,48,Male,183,103,30.76,132,83,82,Athletic,XXL,False,H&M,Sweater,XXL,Fit Well,Kept,,Winter,Online,Occasional Buyer,Yes,South America,2022-10-03 16:45
+User030,48,Male,183,103,30.76,132,83,82,Athletic,XXL,False,H&M,Dress,XXL,Too Large,Exchanged,Other,Winter,Online,Occasional Buyer,Yes,South America,2022-07-26 11:03
+User030,48,Male,183,103,30.76,132,83,82,Athletic,XXL,False,H&M,Sweater,XXL,Fit Well,Exchanged,Changed Mind,Winter,Online,Occasional Buyer,Yes,South America,2022-03-25 19:09
+User031,26,Female,184,61,18.02,123,65,111,Average,XL,False,Nike,T-shirt,M,Fit Well,Returned,Changed Mind,Summer,In-Store,Occasional Buyer,Yes,Africa,2022-08-26 12:03
+User031,26,Female,184,61,18.02,123,65,111,Average,XL,False,Nike,Jeans,L,Fit Well,Exchanged,Other,Summer,In-Store,Occasional Buyer,Yes,Africa,2023-07-09 13:56
+User031,26,Female,184,61,18.02,123,65,111,Average,XL,False,Uniqlo,Jeans,XXL,Too Small,Kept,,Summer,In-Store,Occasional Buyer,Yes,Africa,2023-09-05 13:11
+User031,26,Female,184,61,18.02,123,65,111,Average,XL,False,Nike,T-shirt,M,Too Small,Returned,Quality Issue,Summer,In-Store,Occasional Buyer,Yes,Africa,2023-05-19 18:59
+User031,26,Female,184,61,18.02,123,65,111,Average,XL,False,Zara,Sweater,M,Fit Well,Kept,,Summer,In-Store,Occasional Buyer,Yes,Africa,2022-03-13 03:25
+User031,26,Female,184,61,18.02,123,65,111,Average,XL,False,H&M,Skirt,XXL,Too Large,Returned,Fit Issue,Summer,In-Store,Occasional Buyer,Yes,Africa,2022-10-08 12:00
+User031,26,Female,184,61,18.02,123,65,111,Average,XL,False,H&M,Jacket,XL,Fit Well,Returned,Changed Mind,Summer,In-Store,Occasional Buyer,Yes,Africa,2022-02-26 15:46
+User031,26,Female,184,61,18.02,123,65,111,Average,XL,False,Zara,Jeans,L,Too Large,Exchanged,Other,Summer,In-Store,Occasional Buyer,Yes,Africa,2023-11-04 18:24
+User031,26,Female,184,61,18.02,123,65,111,Average,XL,False,Levi's,Jacket,L,Fit Well,Exchanged,Changed Mind,Summer,In-Store,Occasional Buyer,Yes,Africa,2023-10-20 03:00
+User031,26,Female,184,61,18.02,123,65,111,Average,XL,False,H&M,Sweater,XL,Fit Well,Exchanged,Changed Mind,Summer,In-Store,Occasional Buyer,Yes,Africa,2022-07-29 17:11
+User031,26,Female,184,61,18.02,123,65,111,Average,XL,False,Zara,Dress,M,Too Small,Kept,,Summer,In-Store,Occasional Buyer,Yes,Africa,2023-05-18 07:50
+User031,26,Female,184,61,18.02,123,65,111,Average,XL,False,Uniqlo,Sweater,XL,Too Small,Returned,Quality Issue,Summer,In-Store,Occasional Buyer,Yes,Africa,2023-06-25 12:11
+User031,26,Female,184,61,18.02,123,65,111,Average,XL,False,Levi's,Dress,L,Fit Well,Exchanged,Fit Issue,Summer,In-Store,Occasional Buyer,Yes,Africa,2022-06-07 05:05
+User031,26,Female,184,61,18.02,123,65,111,Average,XL,False,Zara,Jacket,M,Too Small,Exchanged,Quality Issue,Summer,In-Store,Occasional Buyer,Yes,Africa,2022-07-21 02:08
+User032,23,Female,156,54,22.19,90,108,102,Average,S,True,Levi's,Skirt,S,Fit Well,Kept,,Winter,Online,Frequent Buyer,Yes,North America,2023-05-01 09:03
+User032,23,Female,156,54,22.19,90,108,102,Average,S,True,Levi's,Dress,XS,Fit Well,Kept,,Winter,Online,Frequent Buyer,Yes,North America,2022-12-01 21:13
+User032,23,Female,156,54,22.19,90,108,102,Average,S,True,Uniqlo,Jacket,XS,Too Small,Kept,,Winter,Online,Frequent Buyer,Yes,North America,2023-11-08 10:41
+User032,23,Female,156,54,22.19,90,108,102,Average,S,True,Levi's,Sweater,XS,Too Small,Kept,,Winter,Online,Frequent Buyer,Yes,North America,2022-04-01 14:05
+User032,23,Female,156,54,22.19,90,108,102,Average,S,True,H&M,Jeans,M,Too Small,Exchanged,Fit Issue,Winter,Online,Frequent Buyer,Yes,North America,2023-09-24 20:12
+User032,23,Female,156,54,22.19,90,108,102,Average,S,True,Uniqlo,Shorts,M,Too Large,Kept,,Winter,Online,Frequent Buyer,Yes,North America,2023-02-27 20:17
+User032,23,Female,156,54,22.19,90,108,102,Average,S,True,Uniqlo,Skirt,M,Too Large,Returned,Fit Issue,Winter,Online,Frequent Buyer,Yes,North America,2022-02-10 00:57
+User032,23,Female,156,54,22.19,90,108,102,Average,S,True,Levi's,Dress,XS,Too Large,Exchanged,Changed Mind,Winter,Online,Frequent Buyer,Yes,North America,2022-05-01 16:07
+User032,23,Female,156,54,22.19,90,108,102,Average,S,True,Zara,Skirt,XS,Fit Well,Returned,Changed Mind,Winter,Online,Frequent Buyer,Yes,North America,2022-09-20 01:22
+User032,23,Female,156,54,22.19,90,108,102,Average,S,True,Zara,Sweater,XS,Too Large,Returned,Changed Mind,Winter,Online,Frequent Buyer,Yes,North America,2023-04-16 06:07
+User032,23,Female,156,54,22.19,90,108,102,Average,S,True,Uniqlo,Skirt,M,Too Small,Exchanged,Quality Issue,Winter,Online,Frequent Buyer,Yes,North America,2023-05-06 13:22
+User032,23,Female,156,54,22.19,90,108,102,Average,S,True,Nike,Skirt,XS,Fit Well,Kept,,Winter,Online,Frequent Buyer,Yes,North America,2023-01-28 13:35
+User032,23,Female,156,54,22.19,90,108,102,Average,S,True,Zara,Shorts,XS,Fit Well,Exchanged,Other,Winter,Online,Frequent Buyer,Yes,North America,2022-04-01 11:34
+User032,23,Female,156,54,22.19,90,108,102,Average,S,True,H&M,T-shirt,XS,Too Small,Exchanged,Changed Mind,Winter,Online,Frequent Buyer,Yes,North America,2023-12-14 13:31
+User033,18,Male,173,98,32.74,105,77,109,Curvy,L,True,Zara,Jacket,M,Too Large,Returned,Changed Mind,Autumn,In-Store,Occasional Buyer,No,Australia,2023-07-19 08:41
+User033,18,Male,173,98,32.74,105,77,109,Curvy,L,True,Zara,Jeans,M,Too Large,Returned,Fit Issue,Autumn,In-Store,Occasional Buyer,No,Australia,2022-09-30 04:34
+User033,18,Male,173,98,32.74,105,77,109,Curvy,L,True,Uniqlo,Shorts,XL,Fit Well,Kept,,Autumn,In-Store,Occasional Buyer,No,Australia,2023-07-02 06:52
+User033,18,Male,173,98,32.74,105,77,109,Curvy,L,True,Zara,Dress,M,Too Small,Kept,,Autumn,In-Store,Occasional Buyer,No,Australia,2023-07-04 20:33
+User033,18,Male,173,98,32.74,105,77,109,Curvy,L,True,Nike,Jacket,M,Too Small,Returned,Other,Autumn,In-Store,Occasional Buyer,No,Australia,2022-06-02 06:29
+User033,18,Male,173,98,32.74,105,77,109,Curvy,L,True,Nike,Jeans,M,Too Small,Kept,,Autumn,In-Store,Occasional Buyer,No,Australia,2023-02-19 08:24
+User033,18,Male,173,98,32.74,105,77,109,Curvy,L,True,Nike,Jacket,M,Too Large,Kept,,Autumn,In-Store,Occasional Buyer,No,Australia,2022-04-18 09:40
+User033,18,Male,173,98,32.74,105,77,109,Curvy,L,True,Levi's,Jacket,L,Too Large,Exchanged,Changed Mind,Autumn,In-Store,Occasional Buyer,No,Australia,2022-09-21 07:15
+User033,18,Male,173,98,32.74,105,77,109,Curvy,L,True,Levi's,Dress,L,Fit Well,Kept,,Autumn,In-Store,Occasional Buyer,No,Australia,2023-09-21 02:11
+User033,18,Male,173,98,32.74,105,77,109,Curvy,L,True,Levi's,T-shirt,L,Too Small,Exchanged,Changed Mind,Autumn,In-Store,Occasional Buyer,No,Australia,2022-04-11 13:07
+User034,34,Male,171,82,28.04,98,107,84,Petite,M,False,H&M,T-shirt,L,Too Large,Exchanged,Other,Winter,In-Store,Occasional Buyer,No,Africa,2022-08-21 17:01
+User034,34,Male,171,82,28.04,98,107,84,Petite,M,False,Zara,Sweater,S,Too Small,Kept,,Winter,In-Store,Occasional Buyer,No,Africa,2023-07-20 05:20
+User034,34,Male,171,82,28.04,98,107,84,Petite,M,False,Nike,Jacket,S,Too Small,Returned,Fit Issue,Winter,In-Store,Occasional Buyer,No,Africa,2023-08-15 19:48
+User034,34,Male,171,82,28.04,98,107,84,Petite,M,False,Nike,Skirt,S,Too Large,Returned,Changed Mind,Winter,In-Store,Occasional Buyer,No,Africa,2023-03-04 08:39
+User034,34,Male,171,82,28.04,98,107,84,Petite,M,False,H&M,Sweater,L,Fit Well,Exchanged,Fit Issue,Winter,In-Store,Occasional Buyer,No,Africa,2022-12-28 09:49
+User034,34,Male,171,82,28.04,98,107,84,Petite,M,False,Nike,Dress,S,Fit Well,Kept,,Winter,In-Store,Occasional Buyer,No,Africa,2023-07-15 17:51
+User034,34,Male,171,82,28.04,98,107,84,Petite,M,False,Uniqlo,Skirt,L,Fit Well,Exchanged,Changed Mind,Winter,In-Store,Occasional Buyer,No,Africa,2022-11-09 01:07
+User034,34,Male,171,82,28.04,98,107,84,Petite,M,False,Zara,Sweater,S,Fit Well,Kept,,Winter,In-Store,Occasional Buyer,No,Africa,2023-10-27 00:48
+User034,34,Male,171,82,28.04,98,107,84,Petite,M,False,Uniqlo,Sweater,L,Too Large,Returned,Changed Mind,Winter,In-Store,Occasional Buyer,No,Africa,2022-06-03 08:45
+User034,34,Male,171,82,28.04,98,107,84,Petite,M,False,Uniqlo,Skirt,L,Fit Well,Kept,,Winter,In-Store,Occasional Buyer,No,Africa,2022-05-13 16:37
+User034,34,Male,171,82,28.04,98,107,84,Petite,M,False,Zara,T-shirt,S,Too Large,Returned,Quality Issue,Winter,In-Store,Occasional Buyer,No,Africa,2022-01-11 17:19
+User034,34,Male,171,82,28.04,98,107,84,Petite,M,False,Levi's,T-shirt,M,Too Small,Kept,,Winter,In-Store,Occasional Buyer,No,Africa,2023-09-26 03:00
+User035,62,Female,194,107,28.43,132,82,111,Curvy,XXL,True,Zara,Shorts,XXL,Too Small,Exchanged,Changed Mind,Summer,Online,Frequent Buyer,Yes,Europe,2023-03-04 03:50
+User035,62,Female,194,107,28.43,132,82,111,Curvy,XXL,True,H&M,Sweater,XXL,Too Large,Kept,,Summer,Online,Frequent Buyer,Yes,Europe,2023-12-12 06:23
+User035,62,Female,194,107,28.43,132,82,111,Curvy,XXL,True,Levi's,Jacket,XXL,Too Small,Exchanged,Other,Summer,Online,Frequent Buyer,Yes,Europe,2023-03-03 18:59
+User035,62,Female,194,107,28.43,132,82,111,Curvy,XXL,True,Nike,Sweater,XXL,Too Large,Kept,,Summer,Online,Frequent Buyer,Yes,Europe,2023-07-15 05:05
+User035,62,Female,194,107,28.43,132,82,111,Curvy,XXL,True,H&M,Shorts,XXL,Fit Well,Exchanged,Changed Mind,Summer,Online,Frequent Buyer,Yes,Europe,2022-11-16 22:37
+User035,62,Female,194,107,28.43,132,82,111,Curvy,XXL,True,H&M,Jacket,XXL,Fit Well,Kept,,Summer,Online,Frequent Buyer,Yes,Europe,2022-01-14 19:07
+User035,62,Female,194,107,28.43,132,82,111,Curvy,XXL,True,Zara,Sweater,XXL,Fit Well,Returned,Changed Mind,Summer,Online,Frequent Buyer,Yes,Europe,2022-02-12 08:54
+User035,62,Female,194,107,28.43,132,82,111,Curvy,XXL,True,Uniqlo,Dress,XXL,Too Small,Kept,,Summer,Online,Frequent Buyer,Yes,Europe,2022-05-21 15:43
+User035,62,Female,194,107,28.43,132,82,111,Curvy,XXL,True,Zara,T-shirt,XXL,Fit Well,Exchanged,Other,Summer,Online,Frequent Buyer,Yes,Europe,2022-09-18 09:08
+User035,62,Female,194,107,28.43,132,82,111,Curvy,XXL,True,Uniqlo,Dress,XXL,Too Small,Returned,Other,Summer,Online,Frequent Buyer,Yes,Europe,2023-07-29 20:15
+User035,62,Female,194,107,28.43,132,82,111,Curvy,XXL,True,Nike,Jacket,XXL,Too Large,Exchanged,Quality Issue,Summer,Online,Frequent Buyer,Yes,Europe,2023-11-13 08:39
+User035,62,Female,194,107,28.43,132,82,111,Curvy,XXL,True,Zara,Jeans,XXL,Too Small,Kept,,Summer,Online,Frequent Buyer,Yes,Europe,2023-05-13 03:22
+User035,62,Female,194,107,28.43,132,82,111,Curvy,XXL,True,Zara,Dress,XXL,Fit Well,Returned,Fit Issue,Summer,Online,Frequent Buyer,Yes,Europe,2023-01-25 22:09
+User036,22,Non-Binary,190,104,28.81,108,101,130,Curvy,XL,False,Levi's,T-shirt,XL,Too Small,Kept,,Summer,In-Store,New Buyer,Yes,Africa,2023-10-03 17:30
+User036,22,Non-Binary,190,104,28.81,108,101,130,Curvy,XL,False,Zara,T-shirt,L,Too Large,Exchanged,Changed Mind,Summer,In-Store,New Buyer,Yes,Africa,2022-05-12 14:48
+User036,22,Non-Binary,190,104,28.81,108,101,130,Curvy,XL,False,Uniqlo,Skirt,XXL,Too Small,Returned,Fit Issue,Summer,In-Store,New Buyer,Yes,Africa,2022-05-18 23:10
+User036,22,Non-Binary,190,104,28.81,108,101,130,Curvy,XL,False,Levi's,Jacket,XL,Too Small,Exchanged,Changed Mind,Summer,In-Store,New Buyer,Yes,Africa,2023-05-04 18:03
+User036,22,Non-Binary,190,104,28.81,108,101,130,Curvy,XL,False,Uniqlo,Jeans,XXL,Too Small,Kept,,Summer,In-Store,New Buyer,Yes,Africa,2023-10-28 04:15
+User036,22,Non-Binary,190,104,28.81,108,101,130,Curvy,XL,False,Uniqlo,Dress,XXL,Fit Well,Exchanged,Fit Issue,Summer,In-Store,New Buyer,Yes,Africa,2023-01-11 06:06
+User036,22,Non-Binary,190,104,28.81,108,101,130,Curvy,XL,False,Levi's,Jacket,XL,Too Small,Exchanged,Quality Issue,Summer,In-Store,New Buyer,Yes,Africa,2023-10-22 23:12
+User036,22,Non-Binary,190,104,28.81,108,101,130,Curvy,XL,False,Uniqlo,Shorts,XXL,Too Small,Kept,,Summer,In-Store,New Buyer,Yes,Africa,2022-07-17 20:45
+User036,22,Non-Binary,190,104,28.81,108,101,130,Curvy,XL,False,H&M,Dress,XXL,Too Small,Returned,Quality Issue,Summer,In-Store,New Buyer,Yes,Africa,2023-08-19 07:48
+User036,22,Non-Binary,190,104,28.81,108,101,130,Curvy,XL,False,H&M,Jeans,XXL,Too Large,Returned,Changed Mind,Summer,In-Store,New Buyer,Yes,Africa,2023-07-31 20:30
+User036,22,Non-Binary,190,104,28.81,108,101,130,Curvy,XL,False,Levi's,Sweater,XL,Fit Well,Returned,Fit Issue,Summer,In-Store,New Buyer,Yes,Africa,2023-04-08 18:22
+User036,22,Non-Binary,190,104,28.81,108,101,130,Curvy,XL,False,Uniqlo,Jacket,XXL,Fit Well,Returned,Fit Issue,Summer,In-Store,New Buyer,Yes,Africa,2022-05-11 18:07
+User036,22,Non-Binary,190,104,28.81,108,101,130,Curvy,XL,False,Zara,Dress,L,Fit Well,Exchanged,Other,Summer,In-Store,New Buyer,Yes,Africa,2023-04-23 01:57
+User037,29,Female,159,49,19.38,80,90,116,Athletic,XS,True,Zara,Jacket,XS,Too Small,Exchanged,Other,Autumn,In-Store,Frequent Buyer,No,South America,2023-04-30 12:20
+User037,29,Female,159,49,19.38,80,90,116,Athletic,XS,True,H&M,Dress,XS,Too Large,Returned,Quality Issue,Autumn,In-Store,Frequent Buyer,No,South America,2022-10-26 02:51
+User037,29,Female,159,49,19.38,80,90,116,Athletic,XS,True,H&M,Jeans,XS,Too Large,Exchanged,Fit Issue,Autumn,In-Store,Frequent Buyer,No,South America,2022-03-20 08:08
+User037,29,Female,159,49,19.38,80,90,116,Athletic,XS,True,Zara,T-shirt,XS,Fit Well,Exchanged,Quality Issue,Autumn,In-Store,Frequent Buyer,No,South America,2022-08-05 23:53
+User037,29,Female,159,49,19.38,80,90,116,Athletic,XS,True,Levi's,Shorts,XS,Fit Well,Kept,,Autumn,In-Store,Frequent Buyer,No,South America,2022-02-03 21:48
+User037,29,Female,159,49,19.38,80,90,116,Athletic,XS,True,Uniqlo,Jacket,XS,Too Large,Kept,,Autumn,In-Store,Frequent Buyer,No,South America,2023-08-24 13:32
+User037,29,Female,159,49,19.38,80,90,116,Athletic,XS,True,Levi's,Skirt,XS,Too Small,Exchanged,Changed Mind,Autumn,In-Store,Frequent Buyer,No,South America,2023-04-29 00:10
+User037,29,Female,159,49,19.38,80,90,116,Athletic,XS,True,Uniqlo,Shorts,XS,Fit Well,Returned,Other,Autumn,In-Store,Frequent Buyer,No,South America,2023-03-28 11:56
+User037,29,Female,159,49,19.38,80,90,116,Athletic,XS,True,Nike,Shorts,XS,Too Large,Exchanged,Quality Issue,Autumn,In-Store,Frequent Buyer,No,South America,2022-06-24 04:59
+User037,29,Female,159,49,19.38,80,90,116,Athletic,XS,True,Zara,T-shirt,XS,Fit Well,Exchanged,Changed Mind,Autumn,In-Store,Frequent Buyer,No,South America,2022-08-13 05:27
+User037,29,Female,159,49,19.38,80,90,116,Athletic,XS,True,Zara,Shorts,XS,Too Large,Returned,Changed Mind,Autumn,In-Store,Frequent Buyer,No,South America,2023-01-21 09:55
+User038,28,Female,180,48,14.81,113,95,82,Average,L,True,Nike,Sweater,S,Too Small,Kept,,Autumn,In-Store,Occasional Buyer,No,Australia,2022-02-01 12:29
+User038,28,Female,180,48,14.81,113,95,82,Average,L,True,Nike,Jacket,S,Fit Well,Kept,,Autumn,In-Store,Occasional Buyer,No,Australia,2023-02-16 01:36
+User038,28,Female,180,48,14.81,113,95,82,Average,L,True,Zara,Dress,S,Too Large,Returned,Other,Autumn,In-Store,Occasional Buyer,No,Australia,2023-05-23 23:31
+User038,28,Female,180,48,14.81,113,95,82,Average,L,True,H&M,Sweater,L,Too Large,Exchanged,Other,Autumn,In-Store,Occasional Buyer,No,Australia,2023-12-01 23:44
+User038,28,Female,180,48,14.81,113,95,82,Average,L,True,Zara,Sweater,S,Too Large,Kept,,Autumn,In-Store,Occasional Buyer,No,Australia,2022-05-20 13:54
+User038,28,Female,180,48,14.81,113,95,82,Average,L,True,Nike,Sweater,S,Fit Well,Exchanged,Changed Mind,Autumn,In-Store,Occasional Buyer,No,Australia,2022-08-01 16:22
+User038,28,Female,180,48,14.81,113,95,82,Average,L,True,Zara,Skirt,M,Too Large,Returned,Quality Issue,Autumn,In-Store,Occasional Buyer,No,Australia,2023-03-12 13:09
+User038,28,Female,180,48,14.81,113,95,82,Average,L,True,Zara,Dress,S,Fit Well,Exchanged,Other,Autumn,In-Store,Occasional Buyer,No,Australia,2022-04-23 01:03
+User038,28,Female,180,48,14.81,113,95,82,Average,L,True,Uniqlo,Jacket,L,Too Large,Kept,,Autumn,In-Store,Occasional Buyer,No,Australia,2023-06-08 02:40
+User038,28,Female,180,48,14.81,113,95,82,Average,L,True,Uniqlo,Skirt,XL,Too Large,Exchanged,Changed Mind,Autumn,In-Store,Occasional Buyer,No,Australia,2023-04-27 16:29
+User038,28,Female,180,48,14.81,113,95,82,Average,L,True,Levi's,Jeans,L,Too Large,Exchanged,Quality Issue,Autumn,In-Store,Occasional Buyer,No,Australia,2022-03-06 00:27
+User038,28,Female,180,48,14.81,113,95,82,Average,L,True,Nike,Shorts,M,Fit Well,Exchanged,Quality Issue,Autumn,In-Store,Occasional Buyer,No,Australia,2023-11-12 20:42
+User038,28,Female,180,48,14.81,113,95,82,Average,L,True,Zara,Jacket,S,Too Small,Kept,,Autumn,In-Store,Occasional Buyer,No,Australia,2022-11-08 15:06
+User038,28,Female,180,48,14.81,113,95,82,Average,L,True,Uniqlo,Dress,L,Fit Well,Returned,Changed Mind,Autumn,In-Store,Occasional Buyer,No,Australia,2023-03-14 22:45
+User039,55,Non-Binary,155,70,29.14,90,78,130,Curvy,S,True,Levi's,Sweater,S,Fit Well,Kept,,Winter,In-Store,New Buyer,No,Australia,2022-09-14 13:01
+User039,55,Non-Binary,155,70,29.14,90,78,130,Curvy,S,True,Zara,Shorts,XS,Too Large,Kept,,Winter,In-Store,New Buyer,No,Australia,2023-01-24 14:24
+User039,55,Non-Binary,155,70,29.14,90,78,130,Curvy,S,True,H&M,Jeans,M,Fit Well,Returned,Quality Issue,Winter,In-Store,New Buyer,No,Australia,2022-03-08 03:28
+User039,55,Non-Binary,155,70,29.14,90,78,130,Curvy,S,True,H&M,Sweater,M,Too Large,Returned,Other,Winter,In-Store,New Buyer,No,Australia,2022-11-03 07:06
+User039,55,Non-Binary,155,70,29.14,90,78,130,Curvy,S,True,Nike,Skirt,XS,Too Small,Returned,Fit Issue,Winter,In-Store,New Buyer,No,Australia,2023-09-08 10:38
+User039,55,Non-Binary,155,70,29.14,90,78,130,Curvy,S,True,Zara,Jacket,XS,Fit Well,Returned,Changed Mind,Winter,In-Store,New Buyer,No,Australia,2023-12-05 06:45
+User039,55,Non-Binary,155,70,29.14,90,78,130,Curvy,S,True,H&M,Jeans,M,Fit Well,Exchanged,Other,Winter,In-Store,New Buyer,No,Australia,2022-01-01 20:40
+User039,55,Non-Binary,155,70,29.14,90,78,130,Curvy,S,True,Levi's,Jacket,S,Too Small,Returned,Fit Issue,Winter,In-Store,New Buyer,No,Australia,2022-06-13 09:35
+User039,55,Non-Binary,155,70,29.14,90,78,130,Curvy,S,True,Nike,Sweater,XS,Too Large,Kept,,Winter,In-Store,New Buyer,No,Australia,2023-11-26 20:06
+User039,55,Non-Binary,155,70,29.14,90,78,130,Curvy,S,True,H&M,Sweater,M,Too Small,Returned,Changed Mind,Winter,In-Store,New Buyer,No,Australia,2022-10-01 13:56
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,Zara,Skirt,XS,Too Small,Exchanged,Other,Winter,In-Store,Occasional Buyer,No,Europe,2022-06-02 16:59
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,Zara,Dress,XS,Fit Well,Returned,Changed Mind,Winter,In-Store,Occasional Buyer,No,Europe,2023-08-29 18:04
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,H&M,Shorts,M,Fit Well,Returned,Changed Mind,Winter,In-Store,Occasional Buyer,No,Europe,2023-04-16 13:27
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,Uniqlo,T-shirt,M,Too Large,Exchanged,Fit Issue,Winter,In-Store,Occasional Buyer,No,Europe,2022-10-29 11:34
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,H&M,Jeans,M,Too Small,Exchanged,Fit Issue,Winter,In-Store,Occasional Buyer,No,Europe,2023-05-07 05:03
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,Zara,T-shirt,XS,Too Large,Kept,,Winter,In-Store,Occasional Buyer,No,Europe,2022-01-15 02:50
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,Uniqlo,Jeans,M,Fit Well,Kept,,Winter,In-Store,Occasional Buyer,No,Europe,2023-11-06 17:30
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,Nike,Jacket,XS,Fit Well,Returned,Other,Winter,In-Store,Occasional Buyer,No,Europe,2022-07-27 17:35
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,Nike,Shorts,XS,Too Small,Returned,Fit Issue,Winter,In-Store,Occasional Buyer,No,Europe,2022-06-17 02:21
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,Uniqlo,Shorts,M,Too Large,Kept,,Winter,In-Store,Occasional Buyer,No,Europe,2022-02-08 11:16
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,Nike,Shorts,XS,Too Small,Returned,Quality Issue,Winter,In-Store,Occasional Buyer,No,Europe,2023-08-10 10:43
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,Levi's,Dress,S,Too Small,Returned,Other,Winter,In-Store,Occasional Buyer,No,Europe,2023-07-16 02:16
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,Nike,Jacket,XS,Too Small,Exchanged,Quality Issue,Winter,In-Store,Occasional Buyer,No,Europe,2022-01-20 01:09
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,Nike,Jeans,XS,Too Large,Exchanged,Fit Issue,Winter,In-Store,Occasional Buyer,No,Europe,2022-04-12 17:36
+User040,54,Male,189,73,20.44,86,90,81,Average,S,True,Zara,Jeans,XS,Too Small,Kept,,Winter,In-Store,Occasional Buyer,No,Europe,2023-04-27 07:07
+User041,18,Male,162,107,40.77,133,78,93,Average,XXL,True,Nike,T-shirt,XXL,Too Large,Exchanged,Quality Issue,Autumn,In-Store,New Buyer,No,Australia,2023-01-09 15:31
+User041,18,Male,162,107,40.77,133,78,93,Average,XXL,True,H&M,Jeans,XXL,Too Small,Exchanged,Fit Issue,Autumn,In-Store,New Buyer,No,Australia,2022-11-17 05:37
+User041,18,Male,162,107,40.77,133,78,93,Average,XXL,True,Levi's,Jacket,XXL,Fit Well,Kept,,Autumn,In-Store,New Buyer,No,Australia,2023-07-31 19:55
+User041,18,Male,162,107,40.77,133,78,93,Average,XXL,True,Levi's,Sweater,XXL,Fit Well,Returned,Quality Issue,Autumn,In-Store,New Buyer,No,Australia,2022-06-02 05:56
+User041,18,Male,162,107,40.77,133,78,93,Average,XXL,True,Nike,Skirt,XXL,Fit Well,Returned,Quality Issue,Autumn,In-Store,New Buyer,No,Australia,2023-10-17 03:21
+User041,18,Male,162,107,40.77,133,78,93,Average,XXL,True,H&M,Jacket,XXL,Too Small,Returned,Quality Issue,Autumn,In-Store,New Buyer,No,Australia,2022-08-23 21:22
+User041,18,Male,162,107,40.77,133,78,93,Average,XXL,True,Uniqlo,Shorts,XXL,Too Small,Kept,,Autumn,In-Store,New Buyer,No,Australia,2023-03-13 14:15
+User041,18,Male,162,107,40.77,133,78,93,Average,XXL,True,Levi's,T-shirt,XXL,Fit Well,Exchanged,Other,Autumn,In-Store,New Buyer,No,Australia,2022-01-24 22:46
+User041,18,Male,162,107,40.77,133,78,93,Average,XXL,True,H&M,Dress,XXL,Too Small,Returned,Other,Autumn,In-Store,New Buyer,No,Australia,2022-11-15 21:37
+User041,18,Male,162,107,40.77,133,78,93,Average,XXL,True,Levi's,Sweater,XXL,Fit Well,Returned,Changed Mind,Autumn,In-Store,New Buyer,No,Australia,2023-03-22 13:39
+User041,18,Male,162,107,40.77,133,78,93,Average,XXL,True,Uniqlo,Jacket,XXL,Too Small,Exchanged,Other,Autumn,In-Store,New Buyer,No,Australia,2023-08-24 09:32
+User042,53,Non-Binary,177,83,26.49,91,65,84,Athletic,S,True,H&M,Dress,M,Fit Well,Kept,,Winter,Online,New Buyer,No,North America,2023-07-15 21:23
+User042,53,Non-Binary,177,83,26.49,91,65,84,Athletic,S,True,Nike,Skirt,XS,Fit Well,Kept,,Winter,Online,New Buyer,No,North America,2023-12-20 18:16
+User042,53,Non-Binary,177,83,26.49,91,65,84,Athletic,S,True,Nike,Dress,XS,Fit Well,Returned,Quality Issue,Winter,Online,New Buyer,No,North America,2023-10-09 21:57
+User042,53,Non-Binary,177,83,26.49,91,65,84,Athletic,S,True,Zara,Shorts,XS,Fit Well,Returned,Fit Issue,Winter,Online,New Buyer,No,North America,2022-10-07 01:23
+User042,53,Non-Binary,177,83,26.49,91,65,84,Athletic,S,True,H&M,Jacket,M,Too Small,Kept,,Winter,Online,New Buyer,No,North America,2022-09-22 02:45
+User042,53,Non-Binary,177,83,26.49,91,65,84,Athletic,S,True,Zara,Shorts,XS,Fit Well,Returned,Other,Winter,Online,New Buyer,No,North America,2023-06-01 03:36
+User042,53,Non-Binary,177,83,26.49,91,65,84,Athletic,S,True,H&M,Jacket,M,Too Large,Kept,,Winter,Online,New Buyer,No,North America,2023-01-10 12:06
+User042,53,Non-Binary,177,83,26.49,91,65,84,Athletic,S,True,Zara,Sweater,XS,Fit Well,Kept,,Winter,Online,New Buyer,No,North America,2022-03-29 00:31
+User042,53,Non-Binary,177,83,26.49,91,65,84,Athletic,S,True,Zara,Jeans,XS,Too Large,Kept,,Winter,Online,New Buyer,No,North America,2023-06-11 16:50
+User042,53,Non-Binary,177,83,26.49,91,65,84,Athletic,S,True,Zara,Jacket,XS,Too Small,Kept,,Winter,Online,New Buyer,No,North America,2023-10-29 11:48
+User042,53,Non-Binary,177,83,26.49,91,65,84,Athletic,S,True,Nike,Sweater,XS,Too Large,Exchanged,Quality Issue,Winter,Online,New Buyer,No,North America,2023-01-08 00:58
+User042,53,Non-Binary,177,83,26.49,91,65,84,Athletic,S,True,Nike,Jeans,XS,Too Small,Exchanged,Fit Issue,Winter,Online,New Buyer,No,North America,2022-07-06 06:37
+User042,53,Non-Binary,177,83,26.49,91,65,84,Athletic,S,True,Zara,Sweater,XS,Too Large,Exchanged,Other,Winter,Online,New Buyer,No,North America,2023-01-28 15:39
+User043,43,Female,196,58,15.1,127,76,114,Curvy,XXL,False,Nike,Skirt,XXL,Fit Well,Returned,Other,Spring,In-Store,New Buyer,No,North America,2023-02-16 06:33
+User043,43,Female,196,58,15.1,127,76,114,Curvy,XXL,False,Levi's,Dress,XL,Fit Well,Kept,,Spring,In-Store,New Buyer,No,North America,2022-11-27 22:25
+User043,43,Female,196,58,15.1,127,76,114,Curvy,XXL,False,Uniqlo,Sweater,XXL,Too Small,Returned,Quality Issue,Spring,In-Store,New Buyer,No,North America,2022-04-24 17:32
+User043,43,Female,196,58,15.1,127,76,114,Curvy,XXL,False,Nike,T-shirt,L,Too Small,Kept,,Spring,In-Store,New Buyer,No,North America,2023-03-04 07:59
+User043,43,Female,196,58,15.1,127,76,114,Curvy,XXL,False,Nike,Jacket,L,Fit Well,Returned,Other,Spring,In-Store,New Buyer,No,North America,2023-07-13 04:37
+User043,43,Female,196,58,15.1,127,76,114,Curvy,XXL,False,Nike,T-shirt,L,Too Large,Returned,Changed Mind,Spring,In-Store,New Buyer,No,North America,2023-07-25 03:04
+User043,43,Female,196,58,15.1,127,76,114,Curvy,XXL,False,H&M,Dress,XXL,Too Large,Kept,,Spring,In-Store,New Buyer,No,North America,2023-01-17 03:18
+User043,43,Female,196,58,15.1,127,76,114,Curvy,XXL,False,Uniqlo,Shorts,XXL,Too Small,Exchanged,Quality Issue,Spring,In-Store,New Buyer,No,North America,2023-11-05 06:16
+User043,43,Female,196,58,15.1,127,76,114,Curvy,XXL,False,Nike,T-shirt,L,Fit Well,Exchanged,Fit Issue,Spring,In-Store,New Buyer,No,North America,2022-12-28 23:13
+User043,43,Female,196,58,15.1,127,76,114,Curvy,XXL,False,Nike,Skirt,XXL,Fit Well,Returned,Changed Mind,Spring,In-Store,New Buyer,No,North America,2023-02-16 11:27
+User043,43,Female,196,58,15.1,127,76,114,Curvy,XXL,False,Nike,Shorts,XXL,Too Large,Exchanged,Changed Mind,Spring,In-Store,New Buyer,No,North America,2023-10-29 11:22
+User043,43,Female,196,58,15.1,127,76,114,Curvy,XXL,False,Levi's,Skirt,XXL,Fit Well,Exchanged,Changed Mind,Spring,In-Store,New Buyer,No,North America,2023-02-10 09:26
+User043,43,Female,196,58,15.1,127,76,114,Curvy,XXL,False,Zara,Jeans,XXL,Too Large,Returned,Other,Spring,In-Store,New Buyer,No,North America,2022-10-20 07:24
+User043,43,Female,196,58,15.1,127,76,114,Curvy,XXL,False,Nike,Skirt,XXL,Too Large,Kept,,Spring,In-Store,New Buyer,No,North America,2023-10-27 06:55
+User044,49,Female,158,95,38.05,81,67,96,Petite,S,True,Nike,T-shirt,XS,Too Large,Kept,,Summer,In-Store,Occasional Buyer,Yes,South America,2023-09-06 03:30
+User044,49,Female,158,95,38.05,81,67,96,Petite,S,True,Uniqlo,Jacket,XS,Too Small,Exchanged,Changed Mind,Summer,In-Store,Occasional Buyer,Yes,South America,2023-07-19 07:58
+User044,49,Female,158,95,38.05,81,67,96,Petite,S,True,Uniqlo,Dress,XS,Fit Well,Exchanged,Changed Mind,Summer,In-Store,Occasional Buyer,Yes,South America,2022-12-13 03:07
+User044,49,Female,158,95,38.05,81,67,96,Petite,S,True,Zara,Sweater,XS,Too Large,Exchanged,Changed Mind,Summer,In-Store,Occasional Buyer,Yes,South America,2023-07-20 07:56
+User044,49,Female,158,95,38.05,81,67,96,Petite,S,True,Nike,Shorts,XS,Too Small,Exchanged,Other,Summer,In-Store,Occasional Buyer,Yes,South America,2022-07-25 15:00
+User044,49,Female,158,95,38.05,81,67,96,Petite,S,True,Uniqlo,Dress,XS,Too Small,Exchanged,Changed Mind,Summer,In-Store,Occasional Buyer,Yes,South America,2022-11-07 22:07
+User044,49,Female,158,95,38.05,81,67,96,Petite,S,True,Nike,Jacket,XS,Too Small,Exchanged,Changed Mind,Summer,In-Store,Occasional Buyer,Yes,South America,2022-02-11 08:01
+User044,49,Female,158,95,38.05,81,67,96,Petite,S,True,Uniqlo,T-shirt,XS,Too Large,Exchanged,Other,Summer,In-Store,Occasional Buyer,Yes,South America,2022-07-15 19:33
+User044,49,Female,158,95,38.05,81,67,96,Petite,S,True,Zara,Shorts,XS,Too Large,Kept,,Summer,In-Store,Occasional Buyer,Yes,South America,2023-08-01 19:51
+User044,49,Female,158,95,38.05,81,67,96,Petite,S,True,H&M,Skirt,M,Fit Well,Kept,,Summer,In-Store,Occasional Buyer,Yes,South America,2022-10-18 15:48
+User044,49,Female,158,95,38.05,81,67,96,Petite,S,True,Zara,Dress,XS,Fit Well,Returned,Quality Issue,Summer,In-Store,Occasional Buyer,Yes,South America,2023-09-05 04:33
+User044,49,Female,158,95,38.05,81,67,96,Petite,S,True,Levi's,Skirt,S,Too Large,Kept,,Summer,In-Store,Occasional Buyer,Yes,South America,2022-07-13 00:11
+User044,49,Female,158,95,38.05,81,67,96,Petite,S,True,Uniqlo,Dress,XS,Too Small,Exchanged,Fit Issue,Summer,In-Store,Occasional Buyer,Yes,South America,2022-08-30 02:59
+User045,20,Male,197,64,16.49,102,82,109,Petite,M,True,Nike,Jeans,S,Too Small,Exchanged,Quality Issue,Spring,Online,Frequent Buyer,Yes,North America,2023-10-07 21:17
+User045,20,Male,197,64,16.49,102,82,109,Petite,M,True,Zara,Skirt,S,Too Large,Returned,Quality Issue,Spring,Online,Frequent Buyer,Yes,North America,2023-09-17 11:02
+User045,20,Male,197,64,16.49,102,82,109,Petite,M,True,Zara,Jeans,S,Too Small,Returned,Quality Issue,Spring,Online,Frequent Buyer,Yes,North America,2022-11-20 00:31
+User045,20,Male,197,64,16.49,102,82,109,Petite,M,True,Uniqlo,Sweater,L,Fit Well,Exchanged,Changed Mind,Spring,Online,Frequent Buyer,Yes,North America,2023-01-31 03:45
+User045,20,Male,197,64,16.49,102,82,109,Petite,M,True,Levi's,T-shirt,M,Too Small,Exchanged,Quality Issue,Spring,Online,Frequent Buyer,Yes,North America,2023-06-26 03:05
+User045,20,Male,197,64,16.49,102,82,109,Petite,M,True,Levi's,Sweater,M,Fit Well,Exchanged,Quality Issue,Spring,Online,Frequent Buyer,Yes,North America,2022-10-12 07:41
+User045,20,Male,197,64,16.49,102,82,109,Petite,M,True,Nike,Jeans,S,Too Large,Exchanged,Other,Spring,Online,Frequent Buyer,Yes,North America,2023-02-23 18:38
+User045,20,Male,197,64,16.49,102,82,109,Petite,M,True,Levi's,Sweater,M,Too Large,Exchanged,Quality Issue,Spring,Online,Frequent Buyer,Yes,North America,2023-04-21 05:06
+User045,20,Male,197,64,16.49,102,82,109,Petite,M,True,Uniqlo,Skirt,L,Fit Well,Kept,,Spring,Online,Frequent Buyer,Yes,North America,2023-10-11 07:29
+User045,20,Male,197,64,16.49,102,82,109,Petite,M,True,H&M,Jacket,L,Too Large,Exchanged,Fit Issue,Spring,Online,Frequent Buyer,Yes,North America,2022-07-17 04:15
+User045,20,Male,197,64,16.49,102,82,109,Petite,M,True,H&M,Dress,L,Too Small,Returned,Fit Issue,Spring,Online,Frequent Buyer,Yes,North America,2023-10-14 02:44
+User045,20,Male,197,64,16.49,102,82,109,Petite,M,True,Nike,Skirt,S,Too Large,Exchanged,Other,Spring,Online,Frequent Buyer,Yes,North America,2022-05-02 23:08
+User045,20,Male,197,64,16.49,102,82,109,Petite,M,True,Levi's,Skirt,M,Fit Well,Returned,Changed Mind,Spring,Online,Frequent Buyer,Yes,North America,2022-09-15 03:35
+User045,20,Male,197,64,16.49,102,82,109,Petite,M,True,Zara,Jeans,S,Fit Well,Kept,,Spring,Online,Frequent Buyer,Yes,North America,2022-09-14 23:23
+User046,27,Female,165,67,24.61,127,84,130,Average,XXL,True,Levi's,Sweater,XL,Too Small,Kept,,Winter,Online,Occasional Buyer,No,South America,2023-03-17 07:34
+User046,27,Female,165,67,24.61,127,84,130,Average,XXL,True,Levi's,Jacket,XL,Too Large,Exchanged,Changed Mind,Winter,Online,Occasional Buyer,No,South America,2022-01-13 03:18
+User046,27,Female,165,67,24.61,127,84,130,Average,XXL,True,H&M,T-shirt,XXL,Too Large,Kept,,Winter,Online,Occasional Buyer,No,South America,2023-12-14 05:03
+User046,27,Female,165,67,24.61,127,84,130,Average,XXL,True,H&M,Jacket,XXL,Fit Well,Returned,Quality Issue,Winter,Online,Occasional Buyer,No,South America,2022-08-10 19:42
+User046,27,Female,165,67,24.61,127,84,130,Average,XXL,True,Zara,Sweater,L,Too Large,Exchanged,Changed Mind,Winter,Online,Occasional Buyer,No,South America,2023-11-17 22:59
+User046,27,Female,165,67,24.61,127,84,130,Average,XXL,True,Zara,Jacket,L,Too Large,Kept,,Winter,Online,Occasional Buyer,No,South America,2022-03-15 07:23
+User046,27,Female,165,67,24.61,127,84,130,Average,XXL,True,Levi's,Sweater,XL,Too Large,Kept,,Winter,Online,Occasional Buyer,No,South America,2023-03-29 14:16
+User046,27,Female,165,67,24.61,127,84,130,Average,XXL,True,Zara,T-shirt,L,Too Large,Returned,Other,Winter,Online,Occasional Buyer,No,South America,2023-08-17 21:02
+User046,27,Female,165,67,24.61,127,84,130,Average,XXL,True,H&M,Shorts,XXL,Too Large,Exchanged,Quality Issue,Winter,Online,Occasional Buyer,No,South America,2023-04-25 06:41
+User046,27,Female,165,67,24.61,127,84,130,Average,XXL,True,H&M,Sweater,XXL,Too Small,Exchanged,Other,Winter,Online,Occasional Buyer,No,South America,2023-12-02 10:38
+User046,27,Female,165,67,24.61,127,84,130,Average,XXL,True,Nike,Shorts,XXL,Too Small,Kept,,Winter,Online,Occasional Buyer,No,South America,2022-12-18 02:49
+User046,27,Female,165,67,24.61,127,84,130,Average,XXL,True,H&M,Dress,XXL,Fit Well,Returned,Other,Winter,Online,Occasional Buyer,No,South America,2023-01-27 10:01
+User046,27,Female,165,67,24.61,127,84,130,Average,XXL,True,Zara,Shorts,XXL,Fit Well,Returned,Changed Mind,Winter,Online,Occasional Buyer,No,South America,2022-01-17 00:05
+User046,27,Female,165,67,24.61,127,84,130,Average,XXL,True,Levi's,Dress,XL,Too Small,Returned,Fit Issue,Winter,Online,Occasional Buyer,No,South America,2023-07-06 15:41
+User047,27,Non-Binary,163,109,41.03,91,74,128,Average,M,False,Zara,Jeans,S,Fit Well,Exchanged,Quality Issue,Autumn,In-Store,Occasional Buyer,No,North America,2022-11-12 21:16
+User047,27,Non-Binary,163,109,41.03,91,74,128,Average,M,False,Levi's,Dress,M,Too Large,Returned,Changed Mind,Autumn,In-Store,Occasional Buyer,No,North America,2022-04-21 05:10
+User047,27,Non-Binary,163,109,41.03,91,74,128,Average,M,False,Zara,Jeans,S,Too Small,Kept,,Autumn,In-Store,Occasional Buyer,No,North America,2023-01-14 20:22
+User047,27,Non-Binary,163,109,41.03,91,74,128,Average,M,False,H&M,Dress,L,Too Large,Returned,Fit Issue,Autumn,In-Store,Occasional Buyer,No,North America,2022-06-15 06:48
+User047,27,Non-Binary,163,109,41.03,91,74,128,Average,M,False,H&M,Sweater,L,Too Large,Kept,,Autumn,In-Store,Occasional Buyer,No,North America,2023-09-01 06:54
+User047,27,Non-Binary,163,109,41.03,91,74,128,Average,M,False,Uniqlo,Dress,L,Too Small,Exchanged,Changed Mind,Autumn,In-Store,Occasional Buyer,No,North America,2022-10-23 20:59
+User047,27,Non-Binary,163,109,41.03,91,74,128,Average,M,False,H&M,Dress,L,Too Small,Returned,Fit Issue,Autumn,In-Store,Occasional Buyer,No,North America,2022-04-30 04:58
+User047,27,Non-Binary,163,109,41.03,91,74,128,Average,M,False,Zara,Sweater,S,Too Large,Returned,Fit Issue,Autumn,In-Store,Occasional Buyer,No,North America,2023-07-01 04:54
+User047,27,Non-Binary,163,109,41.03,91,74,128,Average,M,False,Nike,Jacket,S,Too Small,Kept,,Autumn,In-Store,Occasional Buyer,No,North America,2023-02-28 12:54
+User047,27,Non-Binary,163,109,41.03,91,74,128,Average,M,False,Levi's,T-shirt,M,Fit Well,Returned,Changed Mind,Autumn,In-Store,Occasional Buyer,No,North America,2023-04-17 12:51
+User047,27,Non-Binary,163,109,41.03,91,74,128,Average,M,False,Levi's,Shorts,M,Too Large,Exchanged,Other,Autumn,In-Store,Occasional Buyer,No,North America,2023-06-17 19:20
+User047,27,Non-Binary,163,109,41.03,91,74,128,Average,M,False,Levi's,Sweater,M,Too Large,Kept,,Autumn,In-Store,Occasional Buyer,No,North America,2023-05-06 10:16
+User047,27,Non-Binary,163,109,41.03,91,74,128,Average,M,False,Nike,Jeans,S,Too Large,Returned,Quality Issue,Autumn,In-Store,Occasional Buyer,No,North America,2023-06-10 05:56
+User048,23,Female,152,117,50.64,113,94,82,Petite,XL,True,Zara,T-shirt,M,Too Large,Exchanged,Quality Issue,Spring,Online,New Buyer,No,Australia,2022-05-08 00:05
+User048,23,Female,152,117,50.64,113,94,82,Petite,XL,True,Nike,Skirt,L,Fit Well,Returned,Changed Mind,Spring,Online,New Buyer,No,Australia,2022-10-12 18:25
+User048,23,Female,152,117,50.64,113,94,82,Petite,XL,True,H&M,Jacket,XL,Too Small,Exchanged,Quality Issue,Spring,Online,New Buyer,No,Australia,2023-09-10 13:00
+User048,23,Female,152,117,50.64,113,94,82,Petite,XL,True,Zara,Jacket,M,Fit Well,Kept,,Spring,Online,New Buyer,No,Australia,2023-02-18 01:00
+User048,23,Female,152,117,50.64,113,94,82,Petite,XL,True,H&M,T-shirt,XL,Too Large,Exchanged,Changed Mind,Spring,Online,New Buyer,No,Australia,2022-10-01 15:16
+User048,23,Female,152,117,50.64,113,94,82,Petite,XL,True,Nike,Jeans,L,Too Large,Returned,Quality Issue,Spring,Online,New Buyer,No,Australia,2023-01-15 11:12
+User048,23,Female,152,117,50.64,113,94,82,Petite,XL,True,Nike,Skirt,L,Fit Well,Returned,Fit Issue,Spring,Online,New Buyer,No,Australia,2023-09-26 20:27
+User048,23,Female,152,117,50.64,113,94,82,Petite,XL,True,Nike,Jeans,L,Fit Well,Returned,Quality Issue,Spring,Online,New Buyer,No,Australia,2022-05-17 11:08
+User048,23,Female,152,117,50.64,113,94,82,Petite,XL,True,Uniqlo,Sweater,XL,Fit Well,Kept,,Spring,Online,New Buyer,No,Australia,2023-08-22 09:19
+User048,23,Female,152,117,50.64,113,94,82,Petite,XL,True,Zara,Skirt,L,Fit Well,Kept,,Spring,Online,New Buyer,No,Australia,2023-10-30 06:14
+User048,23,Female,152,117,50.64,113,94,82,Petite,XL,True,Uniqlo,Jeans,XXL,Too Large,Kept,,Spring,Online,New Buyer,No,Australia,2023-01-31 03:04
+User048,23,Female,152,117,50.64,113,94,82,Petite,XL,True,Zara,Dress,M,Too Large,Kept,,Spring,Online,New Buyer,No,Australia,2022-09-07 20:07
+User048,23,Female,152,117,50.64,113,94,82,Petite,XL,True,H&M,Skirt,XXL,Fit Well,Exchanged,Quality Issue,Spring,Online,New Buyer,No,Australia,2023-09-24 22:20
+User049,30,Female,169,93,32.56,112,102,128,Curvy,XL,False,Levi's,Skirt,XL,Too Large,Kept,,Summer,In-Store,Occasional Buyer,No,North America,2023-12-14 01:50
+User049,30,Female,169,93,32.56,112,102,128,Curvy,XL,False,Levi's,Jacket,L,Too Small,Kept,,Summer,In-Store,Occasional Buyer,No,North America,2023-07-27 23:12
+User049,30,Female,169,93,32.56,112,102,128,Curvy,XL,False,Zara,Dress,M,Too Small,Returned,Other,Summer,In-Store,Occasional Buyer,No,North America,2023-01-20 04:25
+User049,30,Female,169,93,32.56,112,102,128,Curvy,XL,False,H&M,T-shirt,XL,Fit Well,Kept,,Summer,In-Store,Occasional Buyer,No,North America,2023-07-20 03:08
+User049,30,Female,169,93,32.56,112,102,128,Curvy,XL,False,H&M,T-shirt,XL,Fit Well,Returned,Quality Issue,Summer,In-Store,Occasional Buyer,No,North America,2022-05-20 13:28
+User049,30,Female,169,93,32.56,112,102,128,Curvy,XL,False,Levi's,T-shirt,L,Fit Well,Returned,Quality Issue,Summer,In-Store,Occasional Buyer,No,North America,2022-09-30 11:40
+User049,30,Female,169,93,32.56,112,102,128,Curvy,XL,False,Nike,Jacket,M,Too Small,Returned,Fit Issue,Summer,In-Store,Occasional Buyer,No,North America,2022-11-29 12:57
+User049,30,Female,169,93,32.56,112,102,128,Curvy,XL,False,Zara,Skirt,L,Fit Well,Kept,,Summer,In-Store,Occasional Buyer,No,North America,2022-06-03 19:24
+User049,30,Female,169,93,32.56,112,102,128,Curvy,XL,False,Zara,Dress,M,Too Small,Kept,,Summer,In-Store,Occasional Buyer,No,North America,2022-10-13 01:45
+User049,30,Female,169,93,32.56,112,102,128,Curvy,XL,False,Zara,Sweater,M,Too Small,Returned,Fit Issue,Summer,In-Store,Occasional Buyer,No,North America,2023-07-19 07:54
+User049,30,Female,169,93,32.56,112,102,128,Curvy,XL,False,Levi's,Shorts,XL,Too Small,Kept,,Summer,In-Store,Occasional Buyer,No,North America,2023-01-17 21:45
+User049,30,Female,169,93,32.56,112,102,128,Curvy,XL,False,Uniqlo,Jeans,XXL,Fit Well,Exchanged,Other,Summer,In-Store,Occasional Buyer,No,North America,2022-10-20 22:01
+User049,30,Female,169,93,32.56,112,102,128,Curvy,XL,False,Uniqlo,T-shirt,XL,Too Small,Kept,,Summer,In-Store,Occasional Buyer,No,North America,2022-06-22 02:36
+User049,30,Female,169,93,32.56,112,102,128,Curvy,XL,False,Levi's,Jacket,L,Fit Well,Exchanged,Changed Mind,Summer,In-Store,Occasional Buyer,No,North America,2022-01-09 11:29
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,H&M,Jeans,XS,Too Small,Kept,,Autumn,In-Store,Occasional Buyer,No,North America,2023-06-06 03:12
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,Nike,Skirt,XS,Too Small,Returned,Other,Autumn,In-Store,Occasional Buyer,No,North America,2023-08-27 02:40
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,Levi's,Sweater,XS,Too Large,Returned,Changed Mind,Autumn,In-Store,Occasional Buyer,No,North America,2022-06-20 21:49
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,Zara,Shorts,XS,Fit Well,Returned,Other,Autumn,In-Store,Occasional Buyer,No,North America,2023-09-07 03:15
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,H&M,Shorts,XS,Fit Well,Returned,Changed Mind,Autumn,In-Store,Occasional Buyer,No,North America,2022-01-18 17:24
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,Uniqlo,T-shirt,XS,Too Small,Kept,,Autumn,In-Store,Occasional Buyer,No,North America,2022-03-27 14:55
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,Uniqlo,Dress,XS,Too Small,Exchanged,Changed Mind,Autumn,In-Store,Occasional Buyer,No,North America,2023-07-15 09:16
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,Uniqlo,Jacket,XS,Fit Well,Exchanged,Fit Issue,Autumn,In-Store,Occasional Buyer,No,North America,2022-11-29 20:28
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,Uniqlo,Skirt,XS,Fit Well,Exchanged,Quality Issue,Autumn,In-Store,Occasional Buyer,No,North America,2023-07-20 07:03
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,Levi's,Shorts,XS,Fit Well,Kept,,Autumn,In-Store,Occasional Buyer,No,North America,2023-05-25 04:29
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,Levi's,Dress,XS,Fit Well,Kept,,Autumn,In-Store,Occasional Buyer,No,North America,2023-05-18 02:37
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,H&M,Skirt,XS,Too Small,Returned,Changed Mind,Autumn,In-Store,Occasional Buyer,No,North America,2022-08-24 20:50
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,Levi's,Skirt,XS,Too Small,Returned,Other,Autumn,In-Store,Occasional Buyer,No,North America,2022-07-02 04:08
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,H&M,T-shirt,XS,Too Small,Kept,,Autumn,In-Store,Occasional Buyer,No,North America,2022-03-05 02:23
+User050,55,Female,170,88,30.45,79,65,106,Average,XS,False,Nike,Dress,XS,Too Large,Returned,Other,Autumn,In-Store,Occasional Buyer,No,North America,2022-07-04 09:57
